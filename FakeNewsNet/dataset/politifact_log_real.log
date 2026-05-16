@@ -1,0 +1,1216 @@
+2026-04-08 17:02:46 - INFO - successfully downloaded politifact333.html for https://web.archive.org/web/20080204072132/http://www.rockymountainnews.com:80/news/2008/feb/02/romney-tells-denver-crowd-he-can-salvage-economy/
+2026-04-08 17:02:47 - INFO - successfully downloaded politifact4358.html for https://web.archive.org/web/20110811143753/http://www.dems.gov/press/democratic-leaders-say-house-democrats-are-united-against-gop-default-act
+2026-04-08 17:02:48 - INFO - successfully downloaded politifact779.html for https://web.archive.org/web/20070820164107/http://www.whitehouse.gov/omb/budget/fy2008/outlook.html
+2026-04-08 17:03:01 - INFO - failed to download politifact5276.html for http://web.archive.org/web/20120403101003/http://americaneedsmitt.com:80/blog/2011/11/10/mit-romney-stage/ due to a response code in 300 range
+2026-04-08 17:04:31 - INFO - successfully downloaded politifact333.html for https://web.archive.org/web/20080204072132/http://www.rockymountainnews.com:80/news/2008/feb/02/romney-tells-denver-crowd-he-can-salvage-economy/
+2026-04-08 17:04:31 - INFO - successfully downloaded politifact4358.html for https://web.archive.org/web/20110811143753/http://www.dems.gov/press/democratic-leaders-say-house-democrats-are-united-against-gop-default-act
+2026-04-08 17:04:31 - INFO - successfully downloaded politifact779.html for https://web.archive.org/web/20070820164107/http://www.whitehouse.gov/omb/budget/fy2008/outlook.html
+2026-04-08 17:04:32 - INFO - failed to download politifact5276.html for http://web.archive.org/web/20120403101003/http://americaneedsmitt.com:80/blog/2011/11/10/mit-romney-stage/ due to a response code in 300 range
+2026-04-08 17:04:52 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f55124baee0>: Failed to resolve 'americaneedsmitt.com' ([Errno -2] Name or service not known)")': /blog/2011/11/10/mit-romney-stage/
+2026-04-08 17:05:13 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f5512416160>: Failed to resolve 'americaneedsmitt.com' ([Errno -2] Name or service not known)")': /blog/2011/11/10/mit-romney-stage/
+2026-04-08 17:05:34 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f5512416310>: Failed to resolve 'americaneedsmitt.com' ([Errno -2] Name or service not known)")': /blog/2011/11/10/mit-romney-stage/
+2026-04-08 17:05:54 - ERROR - error requesting politifact5276.html for url http://americaneedsmitt.com/blog/2011/11/10/mit-romney-stage/ due to connection error handling
+2026-04-08 17:05:54 - ERROR - error requesting politifact5276.html for url http://americaneedsmitt.com/blog/2011/11/10/mit-romney-stage/ as response is an empty string
+2026-04-08 17:05:55 - INFO - successfully downloaded politifact1313.html for https://web.archive.org/web/20090913221204/http://www.whitehouse.gov:80/the_press_office/Briefing-by-White-House-Press-Secretary-Robert-Gibbs-9/10/09
+2026-04-08 17:05:56 - INFO - successfully downloaded politifact937.html for https://web.archive.org/web/20080623122709/http://www.sciam.com/article.cfm?id=a-solar-grand-plan
+2026-04-08 17:06:03 - INFO - successfully downloaded politifact1519.html for http://web.archive.org/web/20100226081256/http://www.cbsnews.com:80/blogs/2010/02/23/politics/politicalhotsheet/entry6235624.shtml'
+2026-04-08 17:06:22 - INFO - successfully downloaded politifact1783.html for http://web.archive.org/web/20250718214536/https://abcnews.go.com/ThisWeek/week-transcript-holder-giuliani/story?id=10596448
+2026-04-08 17:06:35 - INFO - successfully downloaded politifact423.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-04-08 17:06:35 - INFO - did not download politifact9734.html because url is a youtube video link
+2026-04-08 17:07:03 - INFO - successfully downloaded politifact1823.html for https://web.archive.org/web/20100523071827/http://www.nbc.com:80/the-tonight-show/video/thursday-may-20-2010/1229565/
+2026-04-08 17:07:05 - INFO - successfully downloaded politifact2166.html for http://web.archive.org/web/20260119144725/https://abcnews.go.com/ThisWeek/week-transcript-pelosi-gates/story?id=11298444
+2026-04-08 17:07:06 - INFO - successfully downloaded politifact13303.html for https://web.archive.org/web/20161007194921/https://www.dni.gov/index.php/newsroom/press-releases/215-press-releases-2016/1423-joint-dhs-odni-election-security-statement
+2026-04-08 17:07:11 - INFO - did not download politifact3892.html because url is a youtube video link
+2026-04-08 17:07:14 - INFO - successfully downloaded politifact6641.html for http://web.archive.org/web/20260406074640/https://www.bls.gov/ces/
+2026-04-08 17:07:32 - INFO - successfully downloaded politifact1436.html for https://web.archive.org/web/20091229194623/http://www.bobmcdonnell.com/index.php/press_releases/details/mcdonnell_letter_urges_no_delay_in_virginia_offshore_energy_exploration_and/
+2026-04-08 17:07:43 - INFO - successfully downloaded politifact14036.html for http://web.archive.org/web/20230516002404/https://apnews.com/c810d7de280a47e88848b0ac74690c83
+2026-04-08 17:07:48 - INFO - successfully downloaded politifact537.html for https://web.archive.org/web/20080618171108/http://www.barackobama.com:80/2008/06/15/remarks_of_senator_barack_obam_78.php
+2026-04-08 17:07:48 - INFO - successfully downloaded politifact118.html for https://web.archive.org/web/20070321075045/http://www.asce.org:80/reportcard/2005/actionplan07.cfm
+2026-04-08 17:07:51 - INFO - successfully downloaded politifact9576.html for http://web.archive.org/web/20140914213539/http://blogs.rollcall.com:80/218/immigration-news-congress-changes-to-trafficking-law/?dcz=
+2026-04-08 17:07:51 - INFO - successfully downloaded politifact356.html for https://web.archive.org/web/20070105024255/http://www.focusonthefamily.com:80/press/focusvoices/A000000025.cfm
+2026-04-08 17:07:51 - INFO - did not download politifact401.html because url is a youtube video link
+2026-04-08 17:07:51 - INFO - did not download politifact384.html because url is a youtube video link
+2026-04-08 17:07:54 - INFO - successfully downloaded politifact12148.html for https://web.archive.org/web/20160325190204/https://www.hillaryclinton.com/speeches/remarks-counterterrorism-stanford-university/
+2026-04-08 17:08:05 - INFO - successfully downloaded politifact3341.html for https://web.archive.org/web/20110223135940/http://www.ryannewman.org:80/discussions_display/id-1025
+2026-04-08 17:08:22 - INFO - successfully downloaded politifact551.html for https://web.archive.org/web/20080619050133/http://www.democracynow.org:80/2008/6/18/ralph_nader_on_barack_obama_it
+2026-04-08 17:08:28 - INFO - successfully downloaded politifact51.html for https://web.archive.org/web/20070103020730/http://www.cdc.gov:80/nchs/products/pubs/pubd/hestats/prelimbirths05/prelimbirths05.htm
+2026-04-08 17:08:43 - INFO - successfully downloaded politifact11899.html for http://web.archive.org/web/20250722074345/https://www.washingtonpost.com/news/the-fix/wp/2016/02/11/transcript-the-democratic-debate-in-milwaukee-annotated/
+2026-04-08 17:08:44 - INFO - successfully downloaded politifact514.html for https://web.archive.org/web/20080606124724/http://www.tampabay.com:80/news/politics/state/article607793.ece
+2026-04-08 17:08:46 - INFO - successfully downloaded politifact385.html for http://web.archive.org/web/20180118172627/http://www.nytimes.com/2008/03/03/us/politics/03campaign.html?ref=politics
+2026-04-08 17:08:47 - INFO - successfully downloaded politifact2298.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 17:08:48 - INFO - successfully downloaded politifact1216.html for https://web.archive.org/web/20091003005639/http://barackobamaexperiment.com:80/posts/1575
+2026-04-08 17:08:56 - INFO - successfully downloaded politifact1307.html for http://web.archive.org/web/20180814045606/https://www.bea.gov/national/xls/gdpchg.xls
+2026-04-08 17:09:00 - INFO - successfully downloaded politifact13833.html for http://web.archive.org/web/20251105191334/https://taxpolicycenter.org/sites/default/files/publication/138781/2001170-who-benefits-from-president-trumps-child-care-proposals.pdf
+2026-04-08 17:09:07 - INFO - successfully downloaded politifact442.html for https://web.archive.org/web/20070513055402/http://www.opensecrets.org/pres08/select.asp?Ind=E01
+2026-04-08 17:09:07 - INFO - successfully downloaded politifact1135.html for https://web.archive.org/web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email
+2026-04-08 17:09:09 - INFO - successfully downloaded politifact3693.html for http://web.archive.org/web/20170220005039/http://abcnews.go.com/ThisWeek/week-transcript-rep-paul-ryan/story?id=13502946
+2026-04-08 17:09:15 - INFO - did not download politifact620.html because url is a youtube video link
+2026-04-08 17:09:31 - INFO - successfully downloaded politifact129.html for https://web.archive.org/web/20071020022110/http://action.getourtroopsout.com:80/page/content/candidatesonnoresidualtroops/
+2026-04-08 17:09:42 - INFO - did not download politifact746.html because url is a youtube video link
+2026-04-08 17:09:55 - INFO - successfully downloaded politifact1755.html for http://web.archive.org/web/20240813062606/https://abcnews.go.com/print?id=10532649
+2026-04-08 17:10:11 - INFO - successfully downloaded politifact20.html for https://web.archive.org/web/20070602151138/http://www.foreignaffairs.org:80/20070701faessay86402/mitt-romney/rising-to-a-new-generation-of-global-challenges.html?
+2026-04-08 17:10:17 - INFO - successfully downloaded politifact1177.html for http://web.archive.org/web/20111017181808/http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=111_cong_bills
+2026-04-08 17:10:39 - INFO - successfully downloaded politifact182.html for http://web.archive.org/web/20210223235402/https://www.gao.gov/new.items/d071195.pdf
+2026-04-08 17:10:42 - INFO - successfully downloaded politifact13193.html for http://web.archive.org/web/20220315180413/https://minnesota.cbslocal.com/2016/07/09/philando-stops/
+2026-04-08 17:10:45 - INFO - successfully downloaded politifact763.html for http://web.archive.org/web/20250223133527/https://ilga.gov/senate/transcripts/strans92/ST033001.pdf
+2026-04-08 17:10:46 - INFO - successfully downloaded politifact7563.html for https://web.archive.org/web/20050226122120/http://judiciary.house.gov/legacy/lapierre.htm
+2026-04-08 17:11:08 - INFO - successfully downloaded politifact998.html for https://web.archive.org/web/20090425195727/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=123296
+2026-04-08 17:11:09 - INFO - successfully downloaded politifact1488.html for http://web.archive.org/web/20250618213656/https://abcnews.go.com/print?id=9818034
+2026-04-08 17:11:16 - INFO - successfully downloaded politifact1143.html for http://web.archive.org/web/20130423121812/http://www.foxnews.com/story/0,2933,539893,00.html
+2026-04-08 17:11:35 - INFO - successfully downloaded politifact2943.html for http://web.archive.org/web/20210224180309/https://elsa.berkeley.edu/~saez/saez-UStopincomes-2007.pdf
+2026-04-08 17:11:48 - INFO - successfully downloaded politifact8737.html for http://web.archive.org/web/20260406074444/https://www.bls.gov/news.release/jolts.htm
+2026-04-08 17:12:04 - INFO - did not download politifact9512.html because url is a youtube video link
+2026-04-08 17:12:04 - INFO - did not download politifact497.html because url is a youtube video link
+2026-04-08 17:12:11 - INFO - successfully downloaded politifact6730.html for http://web.archive.org/web/20260402064402/https://www.motherjones.com/politics/2012/09/secret-video-romney-private-fundraiser/
+2026-04-08 17:12:24 - INFO - successfully downloaded politifact12924.html for http://web.archive.org/web/20230528163145/https://medium.com/@GovGaryJohnson/theres-another-choice-5d1f14b742d5
+2026-04-08 17:12:37 - INFO - successfully downloaded politifact783.html for http://web.archive.org/web/20251213092546/https://edition.cnn.com/2008/POLITICS/10/07/presidential.debate.transcript/
+2026-04-08 17:12:37 - INFO - successfully downloaded politifact258.html for https://web.archive.org/web/20080108202709/https://www.mittromney.com/News/Press-Releases/Ad_Remember
+2026-04-08 17:12:38 - INFO - successfully downloaded politifact412.html for https://web.archive.org/web/20060418144436/http://www.gravel2008.us:80/
+2026-04-08 17:12:38 - INFO - did not download politifact1212.html because url is a youtube video link
+2026-04-08 17:12:50 - INFO - successfully downloaded politifact1820.html for http://web.archive.org/web/20100526150952/http://www.starbulletin.com:80/news/bulletin/94673904.html
+2026-04-08 17:12:50 - INFO - did not download politifact2624.html because url is a youtube video link
+2026-04-08 17:13:03 - INFO - successfully downloaded politifact247.html for http://web.archive.org/web/20210507161450/http://transcripts.cnn.com/TRANSCRIPTS/0706/05/se.01.html
+2026-04-08 17:13:14 - INFO - successfully downloaded politifact7968.html for http://web.archive.org/web/20181203225017/https://www.gpo.gov/fdsys/pkg/BILLS-113s744es/pdf/BILLS-113s744es.pdf
+2026-04-08 17:13:14 - INFO - did not download politifact5469.html because url is a youtube video link
+2026-04-08 17:13:15 - INFO - successfully downloaded politifact548.html for https://web.archive.org/web/20081006131457/http://www.politifact.com:80/truth-o-meter/mccainpledge/
+2026-04-08 17:13:20 - INFO - successfully downloaded politifact780.html for http://web.archive.org/web/20090111024158/http://www.politifact.com:80/truth-o-meter/statements/528/
+2026-04-08 17:13:32 - INFO - successfully downloaded politifact11189.html for http://web.archive.org/web/20221207194756/https://www.c-span.org/video/?c4546787/hillary-clinton-remarks-national-urban-league-conference
+2026-04-08 17:13:32 - INFO - did not download politifact6408.html because url is a youtube video link
+2026-04-08 17:13:35 - INFO - successfully downloaded politifact7618.html for http://web.archive.org/web/20230521075219/http://edition.cnn.com/TRANSCRIPTS/1304/02/cg.01.html
+2026-04-08 17:13:36 - INFO - successfully downloaded politifact312.html for https://web.archive.org/web/20071016102723/http://eia.doe.gov:80/emeu/cabs/Saudi_Arabia/Oil.html
+2026-04-08 17:13:42 - INFO - successfully downloaded politifact357.html for https://web.archive.org/web/20071016232328/http://frontpagemagazine.com:80/Articles/Read.aspx?GUID=5541E159-6AD5-4CC9-B24D-38374624608C
+2026-04-08 17:14:16 - INFO - successfully downloaded politifact13431.html for http://web.archive.org/web/20250522135929/https://time.com/4557271/tim-kaine-speech-spanish-arizona/
+2026-04-08 17:14:23 - INFO - successfully downloaded politifact12627.html for http://web.archive.org/web/20170415111806/https://www.bloomberg.com/politics/articles/2016-05-09/trump-s-tough-talk-on-hedge-fund-taxes-doesn-t-match-his-plan
+2026-04-08 17:14:29 - INFO - successfully downloaded politifact567.html for https://web.archive.org/web/20080709210822/http://johnmccain.com/Informing/News/PressReleases/26d74083-c92b-44e9-9600-4e3c30b9a3fb.htm
+2026-04-08 17:14:34 - INFO - did not download politifact2028.html because url is a youtube video link
+2026-04-08 17:14:57 - INFO - successfully downloaded politifact6657.html for http://web.archive.org/web/20260406074640/https://www.bls.gov/ces/
+2026-04-08 17:14:58 - INFO - successfully downloaded politifact7259.html for https://web.archive.org/web/20130116024005/http://www.pbs.org/newshour/bb/social_issues/jan-june13/keene_01-15.html
+2026-04-08 17:15:09 - INFO - successfully downloaded politifact954.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 17:15:10 - INFO - successfully downloaded politifact554.html for http://web.archive.org/web/20121021090929/http://www.foxnews.com/story/0,2933,373450,00.html
+2026-04-08 17:15:26 - INFO - successfully downloaded politifact12418.html for http://web.archive.org/web/20260222182924/https://www.nbcnews.com/meet-the-press/clinton-s-lead-over-trump-shrinks-3-points-new-nbc-n577726
+2026-04-08 17:15:34 - INFO - successfully downloaded politifact4028.html for http://web.archive.org/web/20180719024828/https://www.nobelprize.org/nobel_prizes/peace/laureates/
+2026-04-08 17:15:37 - INFO - successfully downloaded politifact104.html for https://web.archive.org/web/20061114035029/http://mccain.senate.gov/press_office/view_article.cfm?id=34
+2026-04-08 17:15:47 - INFO - did not download politifact486.html because url is a youtube video link
+2026-04-08 17:15:48 - INFO - successfully downloaded politifact246.html for http://web.archive.org/web/20210507161450/http://transcripts.cnn.com/TRANSCRIPTS/0706/05/se.01.html
+2026-04-08 17:15:53 - INFO - did not download politifact2734.html because url is a youtube video link
+2026-04-08 17:16:04 - INFO - successfully downloaded politifact462.html for https://web.archive.org/web/20080212000046/http://transcripts.cnn.com:80/TRANSCRIPTS/0802/05/ltm.03.html
+2026-04-08 17:16:10 - INFO - successfully downloaded politifact14225.html for http://web.archive.org/web/20220815120949/https://video.foxnews.com/v/5467929100001/?
+2026-04-08 17:16:17 - INFO - successfully downloaded politifact655.html for https://web.archive.org/web/20081022203056/http://www.plannedparenthoodaction.org/campaigns/john-mccain-his-own-words-135.htm
+2026-04-08 17:16:19 - INFO - successfully downloaded politifact809.html for https://web.archive.org/web/20081016082039/http://debates.org/pages/trans2008d.html
+2026-04-08 17:16:25 - INFO - successfully downloaded politifact1052.html for https://web.archive.org/web/20090612021235/http://www.talkingpointsmemo.com:80/photofeatures/2009/06/more-czars-than-the-romanovs.php?img=1
+2026-04-08 17:16:26 - INFO - successfully downloaded politifact1435.html for https://web.archive.org/web/20081029143250/http://www.taxpolicycenter.org/numbers/displayatab.cfm?Docid=2007
+2026-04-08 17:16:30 - INFO - successfully downloaded politifact787.html for http://web.archive.org/web/20100105110320/http://www.politifact.com/truth-o-meter/statements/210/
+2026-04-08 17:16:31 - INFO - successfully downloaded politifact2964.html for https://web.archive.org/web/20101217214909/http://www2.tbo.com:80/content/2010/dec/13/131756/news-channel-8-anchor-keith-cate-interviews-obam1/news-politics/
+2026-04-08 17:16:42 - INFO - successfully downloaded politifact599.html for https://web.archive.org/web/20071101044550/http://obama.senate.gov/press/071018-obama_demands_i/
+2026-04-08 17:16:42 - INFO - successfully downloaded politifact681.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 17:16:44 - INFO - successfully downloaded politifact4130.html for http://web.archive.org/web/20120810010516/http://www.msnbc.msn.com/id/43779830/ns/meet_the_press-transcripts/
+2026-04-08 17:17:00 - INFO - successfully downloaded politifact285.html for http://web.archive.org/web/20130827153608/http://www.time.com/time/magazine/article/0,9171,810925,00.html
+2026-04-08 17:17:00 - INFO - did not download politifact9033.html because url is a youtube video link
+2026-04-08 17:17:05 - INFO - successfully downloaded politifact959.html for http://web.archive.org/web/20130119170938/http://www.msnbc.msn.com/id/29705720
+2026-04-08 17:17:09 - INFO - successfully downloaded politifact8989.html for http://web.archive.org/web/20160304055546/http://www.themoscowtimes.com/opinion/article/forget-kiev-the-real-fight-will-be-for-crimea/495145.html
+2026-04-08 17:17:10 - INFO - successfully downloaded politifact445.html for https://web.archive.org/web/20070513055236/http://www.opensecrets.org/pres08/select.asp?Ind=K02
+2026-04-08 17:17:16 - INFO - successfully downloaded politifact516.html for https://web.archive.org/web/20080610072007/http://www.newschannel5.com:80/Global/story.asp?S=8414824
+2026-04-08 17:17:27 - INFO - successfully downloaded politifact11115.html for http://web.archive.org/web/20250706121940/https://www.nytimes.com/2015/07/24/us/politics/inquiry-is-sought-in-hillary-clinton-email-account.html
+2026-04-08 17:17:29 - INFO - successfully downloaded politifact8085.html for http://web.archive.org/web/20250826144622/https://www.realclearpolitics.com/video/2013/07/27/cnns_don_lemon_bill_oreillys_criticism_of_black_community_doesnt_go_far_enough.html
+2026-04-08 17:17:30 - INFO - successfully downloaded politifact4181.html for https://web.archive.org/web/20090513070231/http://www.whitehouse.gov/omb/budget/Historicals/
+2026-04-08 17:17:30 - INFO - did not download politifact3192.html because url is a youtube video link
+2026-04-08 17:17:41 - INFO - successfully downloaded politifact374.html for https://web.archive.org/web/20080226201453/http://ap.google.com:80/article/ALeqM5isOFwdbq0tsqatW6vJpkDRTI1gMgD8V0T1JO0
+2026-04-08 17:17:49 - INFO - successfully downloaded politifact2816.html for http://web.archive.org/web/20240413075433/https://abcnews.go.com/ThisWeek/week-transcript-madeleine-albright-sen-lindsey-graham-sen/story?id=12143913
+2026-04-08 17:17:50 - INFO - successfully downloaded politifact1255.html for https://web.archive.org/web/20091016143946/http://www.msnbc.msn.com:80/id/33253216/ns/meet_the_press/page/3/
+2026-04-08 17:17:54 - INFO - successfully downloaded politifact6831.html for http://web.archive.org/web/20251117213834/https://www.cbo.gov/sites/default/files/cbofiles/attachments/08-22-2012-Update_to_Outlook.pdf
+2026-04-08 17:17:54 - INFO - did not download politifact4850.html because url is a youtube video link
+2026-04-08 17:18:10 - INFO - successfully downloaded politifact339.html for https://web.archive.org/web/20080213201909/http://facts.hillaryhub.com/archive/?id=4497
+2026-04-08 17:18:22 - INFO - successfully downloaded politifact1251.html for https://web.archive.org/web/20090924105940/http://www.rollcall.com:80/features/Health-Care_Policy-Briefing/health_care/38655-1.html
+2026-04-08 17:18:40 - INFO - successfully downloaded politifact1256.html for https://web.archive.org/web/20091014151848/http://www.pbs.org:80/newshour/bb/health/july-dec09/insurance_10-12.html
+2026-04-08 17:19:06 - INFO - successfully downloaded politifact10185.html for http://web.archive.org/web/20150822010005/http://www.politico.com:80/magazine/story/2014/10/if-democrats-lose-the-senate-blame-these-guys-112117.html
+2026-04-08 17:19:07 - INFO - successfully downloaded politifact673.html for http://web.archive.org/web/20191217040304/http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000303
+2026-04-08 17:19:13 - INFO - successfully downloaded politifact1500.html for https://web.archive.org/web/20100215141959/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=170154
+2026-04-08 17:20:15 - INFO - successfully downloaded politifact975.html for http://web.archive.org/web/20120220135416/http://cbo.gov/ftpdocs/100xx/doc10014/03-20-PresidentBudget.pdf
+2026-04-08 17:20:21 - INFO - successfully downloaded politifact181.html for https://web.archive.org/web/20011107072419/http://www.teamster.org:80/01news/hn_010731_3.htm
+2026-04-08 17:20:21 - INFO - successfully downloaded politifact502.html for https://web.archive.org/web/20070926214934/http://obama.senate.gov/press/070918-senate_passes_o_2/
+2026-04-08 17:20:24 - INFO - successfully downloaded politifact958.html for http://web.archive.org/web/20111103142431/http://www.foxnews.com/story/0,2933,183845,00.html
+2026-04-08 17:20:28 - INFO - successfully downloaded politifact581.html for https://web.archive.org/web/20080717022107/http://www.johnmccain.com/Informing/News/PressReleases/Read.aspx?Guid=e92e0317-02b3-4345-82f9-9eac8bb0a50d
+2026-04-08 17:20:28 - INFO - successfully downloaded politifact1040.html for https://web.archive.org/web/20090604101517/http://www.whitehouse.gov/the_press_office/Background-Briefing-on-GM-Restructuring-May-31-2009/
+2026-04-08 17:20:34 - INFO - successfully downloaded politifact8537.html for http://web.archive.org/web/20060228220724/http:/energycommerce.house.gov/108/News/02152006_1778.htm
+2026-04-08 17:20:35 - INFO - successfully downloaded politifact343.html for https://web.archive.org/web/20080212013357/http://blog.aflcio.org:80/2008/02/08/writers-may-have-pact-huckabee-crosses-picket-lineagain/
+2026-04-08 17:20:39 - INFO - successfully downloaded politifact439.html for http://web.archive.org/web/20080621113852/http://abcnews.go.com:80/International/wireStory?id=4662887
+2026-04-08 17:20:40 - INFO - successfully downloaded politifact1051.html for https://web.archive.org/web/20090617192953/http://www.gop.gov/wtas/09/06/10/congressman-pence-discusses-house-republican
+2026-04-08 17:20:40 - INFO - successfully downloaded politifact1361.html for https://web.archive.org/web/20100330081658/http://switchboard.nrdc.org:80/blogs/bfinamore/chinas_carbon_intensity_target.html
+2026-04-08 17:20:44 - INFO - successfully downloaded politifact6907.html for http://web.archive.org/web/20230407225902/https://politicalticker.blogs.cnn.com/2012/10/12/transcript-vice-presidential-debate/
+2026-04-08 17:21:03 - INFO - successfully downloaded politifact12104.html for http://web.archive.org/web/20240606121415/https://medium.com/@RepJoePitts/one-in-four-6665a7ddffd
+2026-04-08 17:21:05 - INFO - successfully downloaded politifact7182.html for https://web.archive.org/web/20121221015559/http://west.congressnewsletter.net:80/common/mailings/index.cfm?id=190
+2026-04-08 17:21:07 - INFO - successfully downloaded politifact3320.html for https://web.archive.org/web/20100405072544/http://demint.senate.gov:80/public/index.cfm?p=JimsBlog
+2026-04-08 17:21:28 - INFO - successfully downloaded politifact15133.html for http://web.archive.org/web/20220818023818/https://www.c-span.org/video/?442305-1/president-trump-campaigns-rick-saccone-pennsylvania
+2026-04-08 17:21:29 - INFO - successfully downloaded politifact600.html for https://web.archive.org/web/20010609190032/http://www.fuelgaugereport.com:80/index.asp
+2026-04-08 17:21:41 - INFO - successfully downloaded politifact1068.html for https://web.archive.org/web/20090624230658/http://www.whitehouse.gov/blog/Protecting-Our-Children-from-the-Dangers-of-Smoking/
+2026-04-08 17:21:45 - INFO - successfully downloaded politifact304.html for http://web.archive.org/web/20251011161856/https://www.cnn.com/2008/POLITICS/01/21/debate.transcript/index.html
+2026-04-08 17:21:46 - INFO - successfully downloaded politifact2281.html for https://web.archive.org/web/20100827015529/http://news.yahoo.com:80/s/ap/20100825/ap_on_re_us/us_nyc_mosque
+2026-04-08 17:22:13 - INFO - successfully downloaded politifact943.html for https://web.archive.org/web/20090224213953/http://www.mcclatchydc.com:80/251/story/62614.html
+2026-04-08 17:22:19 - INFO - successfully downloaded politifact574.html for https://web.archive.org/web/20081101133832/http://www.campaignmoney.org/mccainairbus
+2026-04-08 17:22:20 - INFO - successfully downloaded politifact2836.html for https://web.archive.org/web/20100716185746/http://www.tsa.gov:80/approach/tech/ait/faqs.shtm
+2026-04-08 17:22:23 - INFO - successfully downloaded politifact12556.html for https://web.archive.org/web/20160709050756/https://www.donaldjtrump.com/press-releases/donald-j.-trump-on-the-stakes-of-the-election
+2026-04-08 17:22:26 - INFO - successfully downloaded politifact426.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-04-08 17:22:32 - INFO - successfully downloaded politifact84.html for https://web.archive.org/web/20070911181319/http://pol.moveon.org/petraeus.html
+2026-04-08 17:22:32 - INFO - successfully downloaded politifact421.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-04-08 17:22:48 - INFO - did not download politifact2594.html because url is a youtube video link
+2026-04-08 17:22:59 - INFO - successfully downloaded politifact1424.html for https://web.archive.org/web/20100125035945/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=167478
+2026-04-08 17:23:10 - INFO - did not download politifact2450.html because url is a youtube video link
+2026-04-08 17:23:20 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55123ff160>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-04-08 17:23:21 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55123ff0a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-04-08 17:23:23 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f55123ff460>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-04-08 17:23:23 - ERROR - error requesting politifact186.html for url https://web.archive.org/web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003 due to connection error handling
+2026-04-08 17:23:23 - ERROR - error requesting politifact186.html for url https://web.archive.org/web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003 as response is an empty string
+2026-04-08 17:23:29 - INFO - did not download politifact288.html because url is a youtube video link
+2026-04-08 17:23:31 - INFO - successfully downloaded politifact1899.html for http://web.archive.org/web/20231218121741/https://www.youtube.com/user/JohnMcCaindotcom
+2026-04-08 17:23:32 - INFO - successfully downloaded politifact700.html for https://web.archive.org/web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm
+2026-04-08 17:23:34 - INFO - successfully downloaded politifact12120.html for http://web.archive.org/web/20240520182123/http://politicaladarchive.org/ad/PolAd_BernieSanders_7h37u/
+2026-04-08 17:23:35 - INFO - successfully downloaded politifact1140.html for https://web.archive.org/web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html
+2026-04-08 17:23:39 - INFO - successfully downloaded politifact13052.html for http://web.archive.org/web/20191112024925/https://www.politifact.com/ohio/statements/2016/mar/14/rob-portman/most-heroin-us-comes-over-mexican-border/
+2026-04-08 17:23:40 - INFO - successfully downloaded politifact4879.html for http://web.archive.org/web/20171231014441/http://www.unionleader.com/article/20111129/OPINION02/711299993
+2026-04-08 17:23:51 - INFO - successfully downloaded politifact13395.html for http://web.archive.org/web/20230307065703/https://www.washingtonpost.com/news/fact-checker/wp/2016/05/18/clinton-campaigns-claim-that-trump-would-force-schools-to-allow-guns-in-classrooms/
+2026-04-08 17:24:17 - INFO - successfully downloaded politifact14174.html for http://web.archive.org/web/20240430132444/https://twitter.com/DWStweets/status/870250319644676097
+2026-04-08 17:24:18 - INFO - successfully downloaded politifact13855.html for https://web.archive.org/web/20170313220530/https://www.whitehouse.gov/the-press-office/2017/03/13/remarks-president-trump-listening-session-healthcare
+2026-04-08 17:24:18 - INFO - did not download politifact6537.html because url is a youtube video link
+2026-04-08 17:24:23 - INFO - did not download politifact6519.html because url is a youtube video link
+2026-04-08 17:24:24 - INFO - successfully downloaded politifact74.html for https://web.archive.org/web/20070915144031/http://www.kff.org:80/insurance/7672/
+2026-04-08 17:24:30 - INFO - successfully downloaded politifact13305.html for http://web.archive.org/web/20191112024925/https://www.politifact.com/ohio/statements/2016/mar/14/rob-portman/most-heroin-us-comes-over-mexican-border/
+2026-04-08 17:24:56 - INFO - successfully downloaded politifact11314.html for http://web.archive.org/web/20191214205333/https://www.politifact.com/truth-o-meter/statements/2014/jan/24/patrick-kennedy/has-potency-pot-changed-president-obama-was-high-s/
+2026-04-08 17:24:57 - INFO - successfully downloaded politifact323.html for https://web.archive.org/web/20080131000131/http://www.barackobama.com/2008/01/30/remarks_of_senator_barack_obam_45.php
+2026-04-08 17:25:08 - INFO - successfully downloaded politifact35.html for https://web.archive.org/web/20070825014950/http://www.mcclatchydc.com:80/iraq/story/18861.html
+2026-04-08 17:25:09 - INFO - successfully downloaded politifact3584.html for https://web.archive.org/web/20110416110045/http://projects.washingtonpost.com:80/obama-speeches/speech/622
+2026-04-08 17:25:12 - INFO - successfully downloaded politifact939.html for http://web.archive.org/web/20211207043643/https://www.nytimes.com/2009/02/17/education/17educ.html?hp
+2026-04-08 17:25:17 - INFO - did not download politifact1185.html because url is a youtube video link
+2026-04-08 17:25:19 - INFO - successfully downloaded politifact1053.html for https://web.archive.org/web/20050507232712/http://www.ssa.gov:80/OACT/babynames/namesbystate.html
+2026-04-08 17:25:20 - INFO - successfully downloaded politifact208.html for https://web.archive.org/web/20070829110221/http://hitwise.com/political-data-center/key-candidates.php
+2026-04-08 17:25:35 - INFO - successfully downloaded politifact8805.html for http://web.archive.org/web/20160325074037/http://www.guttmacher.org:80/statecenter/updates/2013/statetrends42013.html
+2026-04-08 17:25:36 - INFO - successfully downloaded politifact9151.html for http://web.archive.org/web/20180307031817/http://www.foxnews.com/on-air/fox-news-sunday-chris-wallace/2014/04/06/sen-kaine-rep-mccaul-security-stateside-military-bases-gen-hayden-reacts-morells-benghazi
+2026-04-08 17:25:43 - INFO - successfully downloaded politifact13352.html for http://web.archive.org/web/20251225005945/https://www.nytimes.com/2016/07/21/us/politics/donald-trump-issues.html?_r=1
+2026-04-08 17:25:46 - INFO - successfully downloaded politifact408.html for http://web.archive.org/web/20080514132637/http://www.mtv.com/news/articles/1583539/20080317/id_0.jhtml
+2026-04-08 17:25:48 - INFO - successfully downloaded politifact1014.html for http://web.archive.org/web/20150424013057/http://www.politico.com/news/stories/0509/22413.html
+2026-04-08 17:26:10 - INFO - successfully downloaded politifact2208.html for https://web.archive.org/web/20090503050002/http://www.google.com/url?sa=t
+2026-04-08 17:26:22 - INFO - successfully downloaded politifact7258.html for https://web.archive.org/web/20121222121141/http://www.pbs.org/newshour/bb/politics/july-dec12/shieldsgerson_12-21.html
+2026-04-08 17:26:29 - INFO - successfully downloaded politifact669.html for https://web.archive.org/web/20080817004723/http://www.cqpolitics.com:80/cq-assets/cqmultimedia/flash/votestudy/index.html
+2026-04-08 17:26:29 - INFO - did not download politifact7540.html because url is a youtube video link
+2026-04-08 17:26:29 - INFO - did not download politifact11399.html because url is a youtube video link
+2026-04-08 17:26:38 - INFO - successfully downloaded politifact13682.html for http://web.archive.org/web/20171212212829/https://www.whitehouse.gov/the-press-office/2017/01/27/executive-order-protecting-nation-foreign-terrorist-entry-united-states
+2026-04-08 17:26:59 - INFO - did not download politifact509.html because url is a youtube video link
+2026-04-08 17:27:01 - INFO - successfully downloaded politifact3455.html for http://web.archive.org/web/20150919141027/http://abcnews.go.com/ThisWeek/week-transcript-target-libya/story?id=13178623
+2026-04-08 17:27:13 - INFO - successfully downloaded politifact214.html for https://web.archive.org/web/20071206011805/http://www.hillaryclinton.com/news/release/view/?id=4479
+2026-04-08 17:27:34 - INFO - successfully downloaded politifact1678.html for http://web.archive.org/web/20220705134300/https://abcnews.go.com/ThisWeek/video/supreme-court-vacancy-10344589
+2026-04-08 17:27:35 - INFO - successfully downloaded politifact2258.html for https://web.archive.org/web/20100821215324/http://republicans.foreignaffairs.house.gov:80/press_display.asp?id=1583
+2026-04-08 17:27:38 - INFO - successfully downloaded politifact539.html for http://web.archive.org/web/20121108121159/http://www.msnbc.msn.com/id/7003226/
+2026-04-08 17:27:51 - INFO - successfully downloaded politifact1026.html for https://web.archive.org/web/20090514023215/http://republicanleader.house.gov/News/DocumentSingle.aspx?DocumentID=125333
+2026-04-08 17:27:57 - INFO - successfully downloaded politifact10877.html for http://web.archive.org/web/20250719161334/http://www.cbsnews.com/news/isis-ramadi-iraq-air-campaign-us-ground-troops/
+2026-04-08 17:27:58 - INFO - successfully downloaded politifact200.html for http://web.archive.org/web/20240326214339/https://www.cdc.gov/nchs/data/hestat/prelimbirths05_tables.pdf
+2026-04-08 17:27:59 - INFO - successfully downloaded politifact724.html for https://web.archive.org/web/20050615041207/http://www.irs.gov:80/taxstats/indtaxstats/article/0,,id=134951,00.html
+2026-04-08 17:28:06 - INFO - successfully downloaded politifact7390.html for https://web.archive.org/web/20130209000637/http://www.whitehouse.gov/state-of-the-union-2013
+2026-04-08 17:28:10 - INFO - successfully downloaded politifact7669.html for http://web.archive.org/web/20170119183710/https://www.whitehouse.gov/the-press-office/2013/04/17/statement-president
+2026-04-08 17:28:21 - INFO - successfully downloaded politifact695.html for http://web.archive.org/web/20121024143446/http://www.msnbc.msn.com/id/26535811/
+2026-04-08 17:28:22 - INFO - successfully downloaded politifact691.html for https://web.archive.org/web/20080911193042/http://www.adn.com:80/sarah-palin/background/story/203814.html
+2026-04-08 17:28:23 - INFO - successfully downloaded politifact1779.html for https://web.archive.org/web/20100513074658/http://video.foxnews.com:80/v/4186199/barasso-ready-to-question-kagan
+2026-04-08 17:28:33 - INFO - did not download politifact5632.html because url is a youtube video link
+2026-04-08 17:28:34 - INFO - successfully downloaded politifact13477.html for http://web.archive.org/web/20170124020344/http://rare.us/story/rand-paul-will-donald-trump-betray-voters-by-hiring-john-bolton/
+2026-04-08 17:28:35 - INFO - successfully downloaded politifact772.html for https://web.archive.org/web/20081006202026/http://abcnews.go.com:80/Politics/Decision2008/story?id=3498294,
+2026-04-08 17:28:41 - INFO - successfully downloaded politifact348.html for http://web.archive.org/web/20260312180459/https://pollingreport.com/C2.htm
+2026-04-08 17:28:47 - INFO - successfully downloaded politifact128.html for https://web.archive.org/web/20061206054712/http://www.irs.gov:80/formspubs/article/0,,id=164272,00.html
+2026-04-08 17:28:47 - INFO - did not download politifact320.html because url is a youtube video link
+2026-04-08 17:28:59 - INFO - successfully downloaded politifact11711.html for http://web.archive.org/web/20260311153459/https://www.nbcnews.com/news/world/vladimir-putins-approval-rating-hits-all-time-high-boosted-syria-n449071
+2026-04-08 17:29:01 - INFO - successfully downloaded politifact1442.html for https://web.archive.org/web/20100105223912/http://republicanleader.house.gov/blog/?m=201001
+2026-04-08 17:29:04 - INFO - successfully downloaded politifact9802.html for http://web.archive.org/web/20251026080156/https://time.com/3111474/rand-paul-ferguson-police/
+2026-04-08 17:29:27 - INFO - successfully downloaded politifact769.html for https://web.archive.org/web/20080817004723/http://www.cqpolitics.com:80/cq-assets/cqmultimedia/flash/votestudy/index.html
+2026-04-08 17:29:46 - INFO - successfully downloaded politifact736.html for http://web.archive.org/web/20250528175154/https://www.state.gov/r/pa/ei/bgn/5375.htm
+2026-04-08 17:29:51 - INFO - did not download politifact608.html because url is a youtube video link
+2026-04-08 17:29:52 - INFO - successfully downloaded politifact7668.html for http://web.archive.org/web/20170119183710/https://www.whitehouse.gov/the-press-office/2013/04/17/statement-president
+2026-04-08 17:29:54 - INFO - successfully downloaded politifact1892.html for http://web.archive.org/web/20250604211327/https://abcnews.go.com/ThisWeek/week-transcript-hoyer-boehner-bill-gates/story?id=10900231
+2026-04-08 17:29:54 - INFO - successfully downloaded politifact2013.html for https://web.archive.org/web/20090628092209/http://www.azdps.gov:80/About/Reports/Crime_In_Arizona/
+2026-04-08 17:30:00 - INFO - successfully downloaded politifact31.html for https://web.archive.org/web/20051210114606/http://www.allianceforschoolchoice.org:80/school_choice_history.aspx
+2026-04-08 17:30:05 - INFO - successfully downloaded politifact287.html for http://web.archive.org/web/20260408205807/https://www.opensecrets.org/
+2026-04-08 17:30:15 - INFO - successfully downloaded politifact12748.html for http://web.archive.org/web/20191210152612/https://www.politifact.com/georgia/statements/2011/may/24/herman-cain/cain-said-food-stamp-program-use-under-obama/
+2026-04-08 17:30:17 - INFO - successfully downloaded politifact207.html for http://web.archive.org/web/20111130175351/http://cbo.gov/ftpdocs/45xx/doc4517/09-03-TankerTestimony.pdf
+2026-04-08 17:30:21 - INFO - successfully downloaded politifact677.html for http://web.archive.org/web/20100522020157/http://www.foxnews.com/fns/
+2026-04-08 17:30:25 - INFO - successfully downloaded politifact3115.html for http://web.archive.org/web/20121004030420/http://www.msnbc.msn.com/id/40871803/ns/meet_the_press-transcripts/
+2026-04-08 17:30:36 - INFO - successfully downloaded politifact671.html for https://web.archive.org/web/20080828144739/http://www.demconvention.com/joe-biden/
+2026-04-08 17:30:57 - INFO - did not download politifact596.html because url is a youtube video link
+2026-04-08 17:31:00 - INFO - successfully downloaded politifact11208.html for http://web.archive.org/web/20151012183727/http://www.washingtonpost.com/news/wonkblog/wp/2014/08/06/a-comprehensive-investigation-of-voter-impersonation-finds-31-credible-incidents-out-of-one-billion-ballots-cast/
+2026-04-08 17:31:00 - INFO - successfully downloaded politifact3228.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 17:31:04 - INFO - successfully downloaded politifact4926.html for http://web.archive.org/web/20240418100102/https://www.nytimes.com/2011/12/09/opinion/brooks-the-gingrich-tragedy.html?hp
+2026-04-08 17:31:04 - INFO - did not download politifact498.html because url is a youtube video link
+2026-04-08 17:31:15 - INFO - successfully downloaded politifact1047.html for https://web.archive.org/web/20090612062614/http://www.ustreas.gov:80/press/releases/tg162.htm
+2026-04-08 17:31:16 - INFO - successfully downloaded politifact228.html for https://web.archive.org/web/20071020185442/http://www.taxpolicycenter.org/numbers/displayatab.cfm?DocID=1390
+2026-04-08 17:31:18 - INFO - successfully downloaded politifact495.html for http://web.archive.org/web/20260310143209/https://www.cnn.com/2007/POLITICS/07/23/debate.transcript/
+2026-04-08 17:31:19 - INFO - successfully downloaded politifact1038.html for https://web.archive.org/web/20001109011000/http://www.nrdc.org:80/nuclear/nudb/datab15.asp
+2026-04-08 17:31:20 - INFO - successfully downloaded politifact1465.html for https://web.archive.org/web/20100201043706/http://www.whitehouse.gov:80/the-press-office/remarks-president-gop-house-issues-conference
+2026-04-08 17:31:20 - INFO - successfully downloaded politifact396.html for https://web.archive.org/web/20060930180024/http://clinton.senate.gov/news/statements/details.cfm?id=233783
+2026-04-08 17:31:20 - INFO - did not download politifact279.html because url is a youtube video link
+2026-04-08 17:31:41 - INFO - did not download politifact341.html because url is a youtube video link
+2026-04-08 17:31:52 - INFO - successfully downloaded politifact3734.html for http://web.archive.org/web/20170118234120/https://www.whitehouse.gov/the-press-office/2011/05/10/remarks-president-comprehensive-immigration-reform-el-paso-texas
+2026-04-08 17:31:52 - INFO - successfully downloaded politifact336.html for https://web.archive.org/web/20080206222702/http://www.mittromney.com/News/Press-Releases/Kerry_McCain
+2026-04-08 17:31:53 - INFO - successfully downloaded politifact785.html for https://web.archive.org/web/20070613045339/http://obama.senate.gov/press/070322-obama_urges_ber/
+2026-04-08 17:31:59 - INFO - successfully downloaded politifact14511.html for http://web.archive.org/web/20240520195045/https://www.msnbc.com/rachel-maddow/watch/schneiderman-suing-trump-over-daca-cites-discriminatory-animus-1040994371897
+2026-04-08 17:32:08 - INFO - successfully downloaded politifact8221.html for http://web.archive.org/web/20170202070120/http://data.unhcr.org/syrianrefugees/syria.php
+2026-04-08 17:32:19 - INFO - successfully downloaded politifact528.html for https://web.archive.org/web/20080514182038/http://johnmccain.com/climatechange/
+2026-04-08 17:32:35 - INFO - did not download politifact5447.html because url is a youtube video link
+2026-04-08 17:32:40 - INFO - did not download politifact6277.html because url is a youtube video link
+2026-04-08 17:33:02 - INFO - successfully downloaded politifact12755.html for http://web.archive.org/web/20211202212929/https://www.pewforum.org/2008/09/19/pastors-to-protest-irs-rules-on-political-advocacy/
+2026-04-08 17:33:06 - INFO - successfully downloaded politifact9107.html for http://web.archive.org/web/20141028052639/http://wfpl.org/post/mitch-mcconnell-alison-lundergan-grimes-have-sharp-differences-campaign-finance-rules
+2026-04-08 17:33:07 - INFO - successfully downloaded politifact527.html for https://web.archive.org/web/20090113114854/http://thepage.time.com:80/obamas-full-remarks-at-chicago-credit-cards-event/
+2026-04-08 17:33:17 - INFO - successfully downloaded politifact773.html for http://web.archive.org/web/20110209190501/http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=110
+2026-04-08 17:33:22 - INFO - successfully downloaded politifact1575.html for http://web.archive.org/web/20200530134410/https://twitter.com/JimDeMint/status/10288400197
+2026-04-08 17:33:33 - INFO - successfully downloaded politifact206.html for https://web.archive.org/web/20071020151813/http://capitaleye.org:80/inside.asp?ID=311
+2026-04-08 17:33:41 - INFO - successfully downloaded politifact409.html for http://web.archive.org/web/20080514132637/http://www.mtv.com/news/articles/1583539/20080317/id_0.jhtml
+2026-04-08 17:33:54 - INFO - successfully downloaded politifact1614.html for http://web.archive.org/web/20190825181544/http://transcripts.cnn.com/TRANSCRIPTS/1003/21/sotu.01.html
+2026-04-08 17:34:00 - INFO - successfully downloaded politifact6998.html for https://web.archive.org/web/20121023081044/http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/10/22/the-full-transcript-of-the-third-presidential-debate/
+2026-04-08 17:34:16 - INFO - did not download politifact2393.html because url is a youtube video link
+2026-04-08 17:34:29 - INFO - successfully downloaded politifact310.html for http://web.archive.org/web/20080608182952/http://www.senate.gov:80/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=108
+2026-04-08 17:34:35 - INFO - successfully downloaded politifact2758.html for https://web.archive.org/web/20101103082821/http://gopleader.gov/News/DocumentSingle.aspx?DocumentID=213442
+2026-04-08 17:34:38 - INFO - successfully downloaded politifact1013.html for http://web.archive.org/web/20110209190445/http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111
+2026-04-08 17:34:48 - INFO - successfully downloaded politifact2318.html for http://web.archive.org/web/20240613220126/https://www.youtube.com/user/harryreid2010
+2026-04-08 17:34:53 - INFO - successfully downloaded politifact377.html for http://web.archive.org/web/20251105115042/https://www.nytimes.com/2008/02/26/us/politics/26text-debate.html?_r=1
+2026-04-08 17:34:54 - INFO - successfully downloaded politifact351.html for https://web.archive.org/web/20080126233643/http://www.chicagotribune.com:80/news/local/chi-070403obama-ballot,0,1843097.story?page=1
+2026-04-08 17:35:01 - INFO - successfully downloaded politifact9438.html for https://web.archive.org/web/20130314224614/http://www.washingtonpost.com/blogs/wonkblog/wp/2013/03/08/everything-you-need-to-know-about-the-drone-debate-in-one-faq/
+2026-04-08 17:35:01 - INFO - did not download politifact15645.html because url is a youtube video link
+2026-04-08 17:35:01 - INFO - did not download politifact319.html because url is a youtube video link
+2026-04-08 17:35:09 - INFO - successfully downloaded politifact1337.html for http://web.archive.org/web/20120118222817/http://cbo.gov/ftpdocs/107xx/doc10731/Reid_letter_11_18_09.pdf
+2026-04-08 17:35:10 - INFO - successfully downloaded politifact834.html for https://web.archive.org/web/20081202093502/http://afp.google.com:80/article/ALeqM5i2cTbnZTDVHPcifBpEzmkfqOOtlg
+2026-04-08 17:35:20 - INFO - successfully downloaded politifact440.html for http://web.archive.org/web/20110315053246/http://query.nytimes.com:80/gst/fullpage.html?res=9F02E1DE1438F932A2575AC0A9679C8B63
+2026-04-08 17:35:26 - INFO - did not download politifact5439.html because url is a youtube video link
+2026-04-08 17:35:37 - INFO - successfully downloaded politifact10787.html for http://web.archive.org/web/20150507211931/http://www.npr.org/blogs/itsallpolitics/2015/04/13/399415802/transcript-nprs-full-interview-with-sen-marco-rubio
+2026-04-08 17:35:37 - INFO - did not download politifact5011.html because url is a youtube video link
+2026-04-08 17:35:44 - INFO - successfully downloaded politifact10533.html for http://web.archive.org/web/20190822084924/https://www.press.org/news-multimedia/videos/npc-luncheon-eric-holder
+2026-04-08 17:35:46 - INFO - successfully downloaded politifact6556.html for http://web.archive.org/web/20131110094010/http://www.cbsnews.com/8301-3460_162-57500549/face-the-nation-transcripts-august-26-2012-rubio-priebus-barbour-blackburn/?pageNum=7
+2026-04-08 17:35:52 - INFO - successfully downloaded politifact6146.html for https://web.archive.org/web/20120619023435/http://www.foxnews.com/on-air/fox-news-sunday/2012/06/17/david-plouffe-sen-joe-lieberman-and-gen-michael-hayden-talk-national-security-leaks?page=3
+2026-04-08 17:36:00 - INFO - successfully downloaded politifact6234.html for http://web.archive.org/web/20200629064318/http://transcripts.cnn.com:80/TRANSCRIPTS/1207/08/sotu.01.html
+2026-04-08 17:36:01 - INFO - successfully downloaded politifact546.html for https://web.archive.org/web/20080619025707/http://www.tampabay.com:80/news/politics/elections/article628630.ece
+2026-04-08 17:36:18 - INFO - successfully downloaded politifact910.html for https://web.archive.org/web/20090120134739/http://www.pbs.org:80/newshour/bb/social_issues/jan-june09/slaverydc_01-16.html
+2026-04-08 17:36:18 - INFO - successfully downloaded politifact1446.html for https://web.archive.org/web/20090910073834/http://www.whitehouse.gov/the_press_office/Remarks-by-the-President-at-AFL-CIO-Labor-Day-Picnic/
+2026-04-08 17:36:20 - INFO - successfully downloaded politifact15175.html for http://web.archive.org/web/20180921104636/https://evanjenkins.house.gov/media-center/press-releases/rep-jenkins-opioid-crisis-funding-should-be-based-need
+2026-04-08 17:36:20 - INFO - successfully downloaded politifact1202.html for https://web.archive.org/web/20090919163055/http://www.whitehouse.gov/the_press_office/Remarks-by-the-First-Lady-on-What-Health-Insurance-Reform-Means-for-Women-and-Families/
+2026-04-08 17:36:26 - INFO - successfully downloaded politifact825.html for https://web.archive.org/web/20081030004908/http://www.plannedparenthoodaction.org/campaigns/386.htm
+2026-04-08 17:36:29 - INFO - successfully downloaded politifact435.html for http://web.archive.org/web/20210507160232/http://transcripts.cnn.com/TRANSCRIPTS/0804/13/se.01.html
+2026-04-08 17:36:34 - INFO - successfully downloaded politifact582.html for https://web.archive.org/web/20070808173432/http://www.barackobama.com/2007/08/01/remarks_of_senator_obama_the_w_1.php
+2026-04-08 17:36:45 - INFO - did not download politifact6267.html because url is a youtube video link
+2026-04-08 17:36:57 - INFO - successfully downloaded politifact11416.html for http://web.archive.org/web/20200108180930/https://www.politifact.com/truth-o-meter/statements/2015/jul/10/generation-forward-pac/did-bernie-sanders-vote-against-background-checks-/
+2026-04-08 17:36:58 - INFO - successfully downloaded politifact13443.html for http://web.archive.org/web/20250222062157/https://taxpolicycenter.org/publications/families-facing-tax-increases-under-trumps-tax-plan-0
+2026-04-08 17:37:05 - INFO - successfully downloaded politifact12721.html for https://web.archive.org/web/20150816005009/http://www.hillaryclinton.com:80/briefing/factsheets/2015/07/13/email-facts/
+2026-04-08 17:37:15 - INFO - successfully downloaded politifact6360.html for http://web.archive.org/web/20130701194850/http://www.rawstory.com/rs/2012/07/17/sen-sanders-warns-of-frightening-trend-towards-oligarchy/
+2026-04-08 17:37:29 - INFO - successfully downloaded politifact134.html for https://web.archive.org/web/20070625210514/http://clinton.senate.gov/news/statements/details.cfm?id=277627
+2026-04-08 17:37:32 - INFO - successfully downloaded politifact11627.html for http://web.archive.org/web/20190213070708/https://berniesanders.com/democratic-socialism-in-the-united-states/
+2026-04-08 17:37:34 - INFO - successfully downloaded politifact12052.html for http://web.archive.org/web/20250124083301/https://www.washingtonpost.com/news/the-fix/wp/2016/03/10/the-cnn-miami-republican-debate-transcript-annotated/
+2026-04-08 17:37:41 - INFO - successfully downloaded politifact690.html for https://web.archive.org/web/20081204120104/http://www.haysresearch.com/oc072508.htm
+2026-04-08 17:38:00 - INFO - successfully downloaded politifact8152.html for http://web.archive.org/web/20130814015349/http://www.thedailyshow.com/full-episodes/mon-august-12-2013-rand-paul
+2026-04-08 17:38:25 - INFO - successfully downloaded politifact13619.html for http://web.archive.org/web/20260113072719/https://www.cnn.com/2017/01/05/politics/border-wall-house-republicans-donald-trump-taxpayers/
+2026-04-08 17:38:31 - INFO - successfully downloaded politifact329.html for https://web.archive.org/web/20080131000131/http://www.barackobama.com/2008/01/30/remarks_of_senator_barack_obam_45.php
+2026-04-08 17:38:31 - INFO - did not download politifact1576.html because url is a youtube video link
+2026-04-08 17:38:31 - INFO - did not download politifact4720.html because url is a youtube video link
+2026-04-08 17:38:32 - INFO - successfully downloaded politifact52.html for https://web.archive.org/web/20071102131244/http://vote-smart.org:80/issue_rating_category.php?can_id=9490
+2026-04-08 20:21:11 - INFO - successfully downloaded politifact333.html for https://web.archive.org/web/20080204072132/http://www.rockymountainnews.com:80/news/2008/feb/02/romney-tells-denver-crowd-he-can-salvage-economy/
+2026-04-08 20:21:19 - INFO - successfully downloaded politifact4358.html for https://web.archive.org/web/20110811143753/http://www.dems.gov/press/democratic-leaders-say-house-democrats-are-united-against-gop-default-act
+2026-04-08 20:21:20 - INFO - successfully downloaded politifact779.html for https://web.archive.org/web/20070820164107/http://www.whitehouse.gov/omb/budget/fy2008/outlook.html
+2026-04-08 20:21:55 - INFO - successfully downloaded politifact1313.html for https://web.archive.org/web/20090913221204/http://www.whitehouse.gov:80/the_press_office/Briefing-by-White-House-Press-Secretary-Robert-Gibbs-9/10/09
+2026-04-08 20:21:56 - INFO - successfully downloaded politifact937.html for https://web.archive.org/web/20080623122709/http://www.sciam.com/article.cfm?id=a-solar-grand-plan
+2026-04-08 20:22:02 - INFO - did not download politifact1519.html as it already exists locally
+2026-04-08 20:22:26 - INFO - did not download politifact1783.html as it already exists locally
+2026-04-08 20:22:42 - INFO - successfully downloaded politifact423.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-04-08 20:22:42 - INFO - did not download politifact9734.html because url is a youtube video link
+2026-04-08 20:23:14 - INFO - successfully downloaded politifact1823.html for https://web.archive.org/web/20100523071827/http://www.nbc.com:80/the-tonight-show/video/thursday-may-20-2010/1229565/
+2026-04-08 20:23:14 - INFO - did not download politifact2166.html as it already exists locally
+2026-04-08 20:23:15 - INFO - successfully downloaded politifact13303.html for https://web.archive.org/web/20161007194921/https://www.dni.gov/index.php/newsroom/press-releases/215-press-releases-2016/1423-joint-dhs-odni-election-security-statement
+2026-04-08 20:23:21 - INFO - did not download politifact3892.html because url is a youtube video link
+2026-04-08 20:23:21 - INFO - did not download politifact6641.html as it already exists locally
+2026-04-08 20:23:41 - INFO - successfully downloaded politifact806.html for http://web.archive.org/web/20180103214607/https://www.politico.com/arena/perm/John_Lewis_C42BBD6A-7821-4081-9870-082C08FF364E.html
+2026-04-08 20:23:42 - INFO - successfully downloaded politifact1436.html for https://web.archive.org/web/20091229194623/http://www.bobmcdonnell.com/index.php/press_releases/details/mcdonnell_letter_urges_no_delay_in_virginia_offshore_energy_exploration_and/
+2026-04-08 20:23:48 - INFO - did not download politifact14036.html as it already exists locally
+2026-04-08 20:23:48 - INFO - successfully downloaded politifact537.html for https://web.archive.org/web/20080618171108/http://www.barackobama.com:80/2008/06/15/remarks_of_senator_barack_obam_78.php
+2026-04-08 20:23:49 - INFO - successfully downloaded politifact118.html for https://web.archive.org/web/20070321075045/http://www.asce.org:80/reportcard/2005/actionplan07.cfm
+2026-04-08 20:23:49 - INFO - did not download politifact9576.html as it already exists locally
+2026-04-08 20:23:50 - INFO - successfully downloaded politifact356.html for https://web.archive.org/web/20070105024255/http://www.focusonthefamily.com:80/press/focusvoices/A000000025.cfm
+2026-04-08 20:23:50 - INFO - did not download politifact401.html because url is a youtube video link
+2026-04-08 20:23:50 - INFO - did not download politifact384.html because url is a youtube video link
+2026-04-08 20:23:51 - INFO - successfully downloaded politifact12148.html for https://web.archive.org/web/20160325190204/https://www.hillaryclinton.com/speeches/remarks-counterterrorism-stanford-university/
+2026-04-08 20:24:02 - INFO - successfully downloaded politifact3341.html for https://web.archive.org/web/20110223135940/http://www.ryannewman.org:80/discussions_display/id-1025
+2026-04-08 20:24:19 - INFO - successfully downloaded politifact551.html for https://web.archive.org/web/20080619050133/http://www.democracynow.org:80/2008/6/18/ralph_nader_on_barack_obama_it
+2026-04-08 20:24:25 - INFO - successfully downloaded politifact51.html for https://web.archive.org/web/20070103020730/http://www.cdc.gov:80/nchs/products/pubs/pubd/hestats/prelimbirths05/prelimbirths05.htm
+2026-04-08 20:24:35 - INFO - did not download politifact11899.html as it already exists locally
+2026-04-08 20:24:37 - INFO - successfully downloaded politifact514.html for https://web.archive.org/web/20080606124724/http://www.tampabay.com:80/news/politics/state/article607793.ece
+2026-04-08 20:24:37 - INFO - did not download politifact385.html as it already exists locally
+2026-04-08 20:24:38 - INFO - successfully downloaded politifact2298.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 20:24:39 - INFO - successfully downloaded politifact1216.html for https://web.archive.org/web/20091003005639/http://barackobamaexperiment.com:80/posts/1575
+2026-04-08 20:24:56 - INFO - did not download politifact1307.html as it already exists locally
+2026-04-08 20:24:56 - INFO - did not download politifact13833.html as it already exists locally
+2026-04-08 20:25:11 - INFO - successfully downloaded politifact442.html for https://web.archive.org/web/20070513055402/http://www.opensecrets.org/pres08/select.asp?Ind=E01
+2026-04-08 20:25:12 - INFO - successfully downloaded politifact1135.html for https://web.archive.org/web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email
+2026-04-08 20:25:12 - INFO - did not download politifact3693.html as it already exists locally
+2026-04-08 20:25:29 - INFO - did not download politifact620.html because url is a youtube video link
+2026-04-08 20:25:46 - INFO - successfully downloaded politifact129.html for https://web.archive.org/web/20071020022110/http://action.getourtroopsout.com:80/page/content/candidatesonnoresidualtroops/
+2026-04-08 20:25:56 - INFO - did not download politifact746.html because url is a youtube video link
+2026-04-08 20:26:07 - INFO - did not download politifact1755.html as it already exists locally
+2026-04-08 20:26:18 - INFO - successfully downloaded politifact14940.html for http://web.archive.org/web/20250503050308/https://www.politico.com/story/2018/01/17/full-text-jeff-flake-on-trump-speech-transcript-343246
+2026-04-08 20:26:24 - INFO - successfully downloaded politifact20.html for https://web.archive.org/web/20070602151138/http://www.foreignaffairs.org:80/20070701faessay86402/mitt-romney/rising-to-a-new-generation-of-global-challenges.html?
+2026-04-08 20:26:24 - INFO - did not download politifact1177.html as it already exists locally
+2026-04-08 20:26:39 - INFO - did not download politifact182.html as it already exists locally
+2026-04-08 20:26:39 - INFO - did not download politifact13193.html as it already exists locally
+2026-04-08 20:26:39 - INFO - did not download politifact763.html as it already exists locally
+2026-04-08 20:26:40 - INFO - successfully downloaded politifact7563.html for https://web.archive.org/web/20050226122120/http://judiciary.house.gov/legacy/lapierre.htm
+2026-04-08 20:27:07 - INFO - successfully downloaded politifact998.html for https://web.archive.org/web/20090425195727/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=123296
+2026-04-08 20:27:07 - INFO - did not download politifact1488.html as it already exists locally
+2026-04-08 20:27:07 - INFO - did not download politifact1143.html as it already exists locally
+2026-04-08 20:27:23 - INFO - did not download politifact2943.html as it already exists locally
+2026-04-08 20:27:33 - INFO - did not download politifact8737.html as it already exists locally
+2026-04-08 20:27:49 - INFO - did not download politifact9512.html because url is a youtube video link
+2026-04-08 20:27:49 - INFO - did not download politifact497.html because url is a youtube video link
+2026-04-08 20:27:49 - INFO - did not download politifact6730.html as it already exists locally
+2026-04-08 20:28:00 - INFO - did not download politifact12924.html as it already exists locally
+2026-04-08 20:28:10 - INFO - did not download politifact783.html as it already exists locally
+2026-04-08 20:28:11 - INFO - successfully downloaded politifact258.html for https://web.archive.org/web/20080108202709/https://www.mittromney.com/News/Press-Releases/Ad_Remember
+2026-04-08 20:28:12 - INFO - successfully downloaded politifact412.html for https://web.archive.org/web/20060418144436/http://www.gravel2008.us:80/
+2026-04-08 20:28:12 - INFO - did not download politifact1212.html because url is a youtube video link
+2026-04-08 20:28:17 - INFO - did not download politifact1820.html as it already exists locally
+2026-04-08 20:28:17 - INFO - did not download politifact2624.html because url is a youtube video link
+2026-04-08 20:28:27 - INFO - did not download politifact247.html as it already exists locally
+2026-04-08 20:28:33 - INFO - did not download politifact7968.html as it already exists locally
+2026-04-08 20:28:33 - INFO - did not download politifact5469.html because url is a youtube video link
+2026-04-08 20:28:33 - INFO - successfully downloaded politifact548.html for https://web.archive.org/web/20081006131457/http://www.politifact.com:80/truth-o-meter/mccainpledge/
+2026-04-08 20:28:33 - INFO - did not download politifact780.html as it already exists locally
+2026-04-08 20:28:38 - INFO - did not download politifact11189.html as it already exists locally
+2026-04-08 20:28:38 - INFO - did not download politifact6408.html because url is a youtube video link
+2026-04-08 20:28:38 - INFO - did not download politifact7618.html as it already exists locally
+2026-04-08 20:28:39 - INFO - successfully downloaded politifact312.html for https://web.archive.org/web/20071016102723/http://eia.doe.gov:80/emeu/cabs/Saudi_Arabia/Oil.html
+2026-04-08 20:28:45 - INFO - successfully downloaded politifact357.html for https://web.archive.org/web/20071016232328/http://frontpagemagazine.com:80/Articles/Read.aspx?GUID=5541E159-6AD5-4CC9-B24D-38374624608C
+2026-04-08 20:29:24 - INFO - did not download politifact13431.html as it already exists locally
+2026-04-08 20:29:24 - INFO - did not download politifact12627.html as it already exists locally
+2026-04-08 20:29:30 - INFO - successfully downloaded politifact567.html for https://web.archive.org/web/20080709210822/http://johnmccain.com/Informing/News/PressReleases/26d74083-c92b-44e9-9600-4e3c30b9a3fb.htm
+2026-04-08 20:29:41 - INFO - did not download politifact2028.html because url is a youtube video link
+2026-04-08 20:30:24 - INFO - did not download politifact6657.html as it already exists locally
+2026-04-08 20:30:25 - INFO - successfully downloaded politifact7259.html for https://web.archive.org/web/20130116024005/http://www.pbs.org/newshour/bb/social_issues/jan-june13/keene_01-15.html
+2026-04-08 20:30:43 - INFO - successfully downloaded politifact954.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 20:30:43 - INFO - did not download politifact554.html as it already exists locally
+2026-04-08 20:30:53 - INFO - did not download politifact12418.html as it already exists locally
+2026-04-08 20:30:58 - INFO - did not download politifact4028.html as it already exists locally
+2026-04-08 20:31:00 - INFO - successfully downloaded politifact104.html for https://web.archive.org/web/20061114035029/http://mccain.senate.gov/press_office/view_article.cfm?id=34
+2026-04-08 20:31:10 - INFO - did not download politifact486.html because url is a youtube video link
+2026-04-08 20:31:10 - INFO - did not download politifact246.html as it already exists locally
+2026-04-08 20:31:16 - INFO - did not download politifact2734.html because url is a youtube video link
+2026-04-08 20:31:27 - INFO - successfully downloaded politifact462.html for https://web.archive.org/web/20080212000046/http://transcripts.cnn.com:80/TRANSCRIPTS/0802/05/ltm.03.html
+2026-04-08 20:31:27 - INFO - did not download politifact14225.html as it already exists locally
+2026-04-08 20:31:33 - INFO - successfully downloaded politifact655.html for https://web.archive.org/web/20081022203056/http://www.plannedparenthoodaction.org/campaigns/john-mccain-his-own-words-135.htm
+2026-04-08 20:31:34 - INFO - successfully downloaded politifact809.html for https://web.archive.org/web/20081016082039/http://debates.org/pages/trans2008d.html
+2026-04-08 20:31:35 - INFO - successfully downloaded politifact1052.html for https://web.archive.org/web/20090612021235/http://www.talkingpointsmemo.com:80/photofeatures/2009/06/more-czars-than-the-romanovs.php?img=1
+2026-04-08 20:31:35 - INFO - successfully downloaded politifact1435.html for https://web.archive.org/web/20081029143250/http://www.taxpolicycenter.org/numbers/displayatab.cfm?Docid=2007
+2026-04-08 20:31:35 - INFO - did not download politifact787.html as it already exists locally
+2026-04-08 20:31:38 - INFO - successfully downloaded politifact2964.html for https://web.archive.org/web/20101217214909/http://www2.tbo.com:80/content/2010/dec/13/131756/news-channel-8-anchor-keith-cate-interviews-obam1/news-politics/
+2026-04-08 20:31:49 - INFO - successfully downloaded politifact599.html for https://web.archive.org/web/20071101044550/http://obama.senate.gov/press/071018-obama_demands_i/
+2026-04-08 20:31:49 - INFO - successfully downloaded politifact681.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 20:31:49 - INFO - did not download politifact4130.html as it already exists locally
+2026-04-08 20:32:05 - INFO - did not download politifact285.html as it already exists locally
+2026-04-08 20:32:05 - INFO - did not download politifact9033.html because url is a youtube video link
+2026-04-08 20:32:05 - INFO - did not download politifact959.html as it already exists locally
+2026-04-08 20:32:05 - INFO - did not download politifact8989.html as it already exists locally
+2026-04-08 20:32:06 - INFO - successfully downloaded politifact445.html for https://web.archive.org/web/20070513055236/http://www.opensecrets.org/pres08/select.asp?Ind=K02
+2026-04-08 20:32:15 - INFO - successfully downloaded politifact516.html for https://web.archive.org/web/20080610072007/http://www.newschannel5.com:80/Global/story.asp?S=8414824
+2026-04-08 22:44:59 - INFO - successfully downloaded politifact333.html for https://web.archive.org/web/20080204072132/http://www.rockymountainnews.com:80/news/2008/feb/02/romney-tells-denver-crowd-he-can-salvage-economy/
+2026-04-08 22:45:01 - INFO - successfully downloaded politifact4358.html for https://web.archive.org/web/20110811143753/http://www.dems.gov/press/democratic-leaders-say-house-democrats-are-united-against-gop-default-act
+2026-04-08 22:45:03 - INFO - successfully downloaded politifact779.html for https://web.archive.org/web/20070820164107/http://www.whitehouse.gov/omb/budget/fy2008/outlook.html
+2026-04-08 22:45:05 - INFO - successfully downloaded politifact14064.html for http://web.archive.org/web/20200113062155/https://www.politifact.com/truth-o-meter/statements/2016/jan/21/donald-trump/donald-trump-exaggerates-when-he-says-china-has-to/
+2026-04-08 22:45:16 - INFO - successfully downloaded politifact1313.html for https://web.archive.org/web/20090913221204/http://www.whitehouse.gov:80/the_press_office/Briefing-by-White-House-Press-Secretary-Robert-Gibbs-9/10/09
+2026-04-08 22:45:17 - INFO - successfully downloaded politifact937.html for https://web.archive.org/web/20080623122709/http://www.sciam.com/article.cfm?id=a-solar-grand-plan
+2026-04-08 22:45:22 - INFO - did not download politifact1519.html as it already exists locally
+2026-04-08 22:45:38 - INFO - did not download politifact1783.html as it already exists locally
+2026-04-08 22:45:54 - INFO - successfully downloaded politifact423.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-04-08 22:45:54 - INFO - did not download politifact9734.html because url is a youtube video link
+2026-04-08 22:46:26 - INFO - successfully downloaded politifact1823.html for https://web.archive.org/web/20100523071827/http://www.nbc.com:80/the-tonight-show/video/thursday-may-20-2010/1229565/
+2026-04-08 22:46:26 - INFO - did not download politifact2166.html as it already exists locally
+2026-04-08 22:46:28 - INFO - successfully downloaded politifact13303.html for https://web.archive.org/web/20161007194921/https://www.dni.gov/index.php/newsroom/press-releases/215-press-releases-2016/1423-joint-dhs-odni-election-security-statement
+2026-04-08 22:46:33 - INFO - did not download politifact3892.html because url is a youtube video link
+2026-04-08 22:46:33 - INFO - did not download politifact6641.html as it already exists locally
+2026-04-08 22:46:49 - INFO - did not download politifact806.html as it already exists locally
+2026-04-08 22:46:50 - INFO - successfully downloaded politifact1436.html for https://web.archive.org/web/20091229194623/http://www.bobmcdonnell.com/index.php/press_releases/details/mcdonnell_letter_urges_no_delay_in_virginia_offshore_energy_exploration_and/
+2026-04-08 22:46:55 - INFO - did not download politifact14036.html as it already exists locally
+2026-04-08 22:46:56 - INFO - successfully downloaded politifact537.html for https://web.archive.org/web/20080618171108/http://www.barackobama.com:80/2008/06/15/remarks_of_senator_barack_obam_78.php
+2026-04-08 22:46:56 - INFO - successfully downloaded politifact118.html for https://web.archive.org/web/20070321075045/http://www.asce.org:80/reportcard/2005/actionplan07.cfm
+2026-04-08 22:46:56 - INFO - did not download politifact9576.html as it already exists locally
+2026-04-08 22:46:57 - INFO - successfully downloaded politifact356.html for https://web.archive.org/web/20070105024255/http://www.focusonthefamily.com:80/press/focusvoices/A000000025.cfm
+2026-04-08 22:46:57 - INFO - did not download politifact401.html because url is a youtube video link
+2026-04-08 22:46:57 - INFO - did not download politifact384.html because url is a youtube video link
+2026-04-08 22:46:58 - INFO - successfully downloaded politifact12148.html for https://web.archive.org/web/20160325190204/https://www.hillaryclinton.com/speeches/remarks-counterterrorism-stanford-university/
+2026-04-08 22:47:10 - INFO - successfully downloaded politifact5778.html for http://web.archive.org/web/20170119082440/https://www.whitehouse.gov/the-press-office/2012/04/17/remarks-president-increasing-oversight-manipulation-oil-markets
+2026-04-08 22:47:11 - INFO - successfully downloaded politifact3341.html for https://web.archive.org/web/20110223135940/http://www.ryannewman.org:80/discussions_display/id-1025
+2026-04-08 22:47:27 - INFO - successfully downloaded politifact551.html for https://web.archive.org/web/20080619050133/http://www.democracynow.org:80/2008/6/18/ralph_nader_on_barack_obama_it
+2026-04-08 22:47:33 - INFO - successfully downloaded politifact51.html for https://web.archive.org/web/20070103020730/http://www.cdc.gov:80/nchs/products/pubs/pubd/hestats/prelimbirths05/prelimbirths05.htm
+2026-04-08 22:47:44 - INFO - did not download politifact11899.html as it already exists locally
+2026-04-08 22:47:44 - INFO - successfully downloaded politifact514.html for https://web.archive.org/web/20080606124724/http://www.tampabay.com:80/news/politics/state/article607793.ece
+2026-04-08 22:47:44 - INFO - did not download politifact385.html as it already exists locally
+2026-04-08 22:47:45 - INFO - successfully downloaded politifact2298.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 22:47:46 - INFO - successfully downloaded politifact1216.html for https://web.archive.org/web/20091003005639/http://barackobamaexperiment.com:80/posts/1575
+2026-04-08 22:47:51 - INFO - successfully downloaded politifact11989.html for http://web.archive.org/web/20260115060835/https://abcnews.go.com/Politics/memory-lapse-trump-seeks-distance-advisor-past-ties/story?id=34600826
+2026-04-08 22:47:51 - INFO - did not download politifact1307.html as it already exists locally
+2026-04-08 22:47:51 - INFO - did not download politifact13833.html as it already exists locally
+2026-04-08 22:47:57 - INFO - successfully downloaded politifact442.html for https://web.archive.org/web/20070513055402/http://www.opensecrets.org/pres08/select.asp?Ind=E01
+2026-04-08 22:47:57 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e08157f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email
+2026-04-08 22:47:58 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e08151c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email
+2026-04-08 22:48:00 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e0815700>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email
+2026-04-08 22:48:00 - ERROR - error requesting politifact1135.html for url https://web.archive.org/web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email due to connection error handling
+2026-04-08 22:48:00 - ERROR - error requesting politifact1135.html for url https://web.archive.org/web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email as response is an empty string
+2026-04-08 22:48:00 - INFO - did not download politifact3693.html as it already exists locally
+2026-04-08 22:48:06 - INFO - did not download politifact620.html because url is a youtube video link
+2026-04-08 22:48:11 - INFO - successfully downloaded politifact979.html for http://web.archive.org/web/20230402131503/https://www.globalsecurity.org/military/library/news/2009/03/mil-090327-whitehouse01.htm
+2026-04-08 22:48:27 - INFO - successfully downloaded politifact129.html for https://web.archive.org/web/20071020022110/http://action.getourtroopsout.com:80/page/content/candidatesonnoresidualtroops/
+2026-04-08 22:48:38 - INFO - did not download politifact746.html because url is a youtube video link
+2026-04-08 22:48:48 - INFO - did not download politifact1755.html as it already exists locally
+2026-04-08 22:48:54 - INFO - did not download politifact14940.html as it already exists locally
+2026-04-08 22:48:57 - INFO - successfully downloaded politifact2093.html for http://web.archive.org/web/20250621141402/https://abcnews.go.com/ThisWeek/week-transcript-biden/story?id=11191222
+2026-04-08 22:48:58 - INFO - successfully downloaded politifact20.html for https://web.archive.org/web/20070602151138/http://www.foreignaffairs.org:80/20070701faessay86402/mitt-romney/rising-to-a-new-generation-of-global-challenges.html?
+2026-04-08 22:48:58 - INFO - did not download politifact1177.html as it already exists locally
+2026-04-08 22:49:14 - INFO - did not download politifact182.html as it already exists locally
+2026-04-08 22:49:14 - INFO - did not download politifact13193.html as it already exists locally
+2026-04-08 22:49:14 - INFO - did not download politifact763.html as it already exists locally
+2026-04-08 22:49:15 - INFO - successfully downloaded politifact7563.html for https://web.archive.org/web/20050226122120/http://judiciary.house.gov/legacy/lapierre.htm
+2026-04-08 22:49:38 - INFO - successfully downloaded politifact3050.html for http://web.archive.org/web/20210126061839/http://www.facebook.com/notes/sarah-palin/americas-enduring-strength/487510653434
+2026-04-08 22:49:39 - INFO - successfully downloaded politifact998.html for https://web.archive.org/web/20090425195727/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=123296
+2026-04-08 22:49:39 - INFO - did not download politifact1488.html as it already exists locally
+2026-04-08 22:49:39 - INFO - did not download politifact1143.html as it already exists locally
+2026-04-08 22:49:54 - INFO - did not download politifact2943.html as it already exists locally
+2026-04-08 22:50:05 - INFO - did not download politifact8737.html as it already exists locally
+2026-04-08 22:50:20 - INFO - did not download politifact9512.html because url is a youtube video link
+2026-04-08 22:50:20 - INFO - did not download politifact497.html because url is a youtube video link
+2026-04-08 22:50:20 - INFO - did not download politifact6730.html as it already exists locally
+2026-04-08 22:50:31 - INFO - did not download politifact12924.html as it already exists locally
+2026-04-08 22:50:36 - INFO - successfully downloaded politifact8130.html for http://web.archive.org/web/20220103044127/https://teddeutch.house.gov/news/documentsingle.aspx?DocumentID=344947
+2026-04-08 22:50:42 - INFO - did not download politifact783.html as it already exists locally
+2026-04-08 22:50:42 - INFO - successfully downloaded politifact258.html for https://web.archive.org/web/20080108202709/https://www.mittromney.com/News/Press-Releases/Ad_Remember
+2026-04-08 22:50:43 - INFO - successfully downloaded politifact412.html for https://web.archive.org/web/20060418144436/http://www.gravel2008.us:80/
+2026-04-08 22:50:43 - INFO - did not download politifact1212.html because url is a youtube video link
+2026-04-08 22:50:48 - INFO - did not download politifact1820.html as it already exists locally
+2026-04-08 22:50:48 - INFO - did not download politifact2624.html because url is a youtube video link
+2026-04-08 22:50:59 - INFO - did not download politifact247.html as it already exists locally
+2026-04-08 22:51:04 - INFO - did not download politifact7968.html as it already exists locally
+2026-04-08 22:51:04 - INFO - did not download politifact5469.html because url is a youtube video link
+2026-04-08 22:51:05 - INFO - successfully downloaded politifact548.html for https://web.archive.org/web/20081006131457/http://www.politifact.com:80/truth-o-meter/mccainpledge/
+2026-04-08 22:51:05 - INFO - did not download politifact780.html as it already exists locally
+2026-04-08 22:51:10 - INFO - did not download politifact11189.html as it already exists locally
+2026-04-08 22:51:10 - INFO - did not download politifact6408.html because url is a youtube video link
+2026-04-08 22:51:10 - INFO - did not download politifact7618.html as it already exists locally
+2026-04-08 22:51:11 - INFO - successfully downloaded politifact312.html for https://web.archive.org/web/20071016102723/http://eia.doe.gov:80/emeu/cabs/Saudi_Arabia/Oil.html
+2026-04-08 22:51:16 - INFO - successfully downloaded politifact8846.html for http://web.archive.org/web/20150913071629/https://www.greentechmedia.com/research/ussmi
+2026-04-08 22:51:17 - INFO - successfully downloaded politifact357.html for https://web.archive.org/web/20071016232328/http://frontpagemagazine.com:80/Articles/Read.aspx?GUID=5541E159-6AD5-4CC9-B24D-38374624608C
+2026-04-08 22:51:47 - INFO - did not download politifact13431.html as it already exists locally
+2026-04-08 22:51:47 - INFO - did not download politifact12627.html as it already exists locally
+2026-04-08 22:51:53 - INFO - successfully downloaded politifact567.html for https://web.archive.org/web/20080709210822/http://johnmccain.com/Informing/News/PressReleases/26d74083-c92b-44e9-9600-4e3c30b9a3fb.htm
+2026-04-08 22:52:04 - INFO - did not download politifact2028.html because url is a youtube video link
+2026-04-08 22:52:25 - INFO - did not download politifact6657.html as it already exists locally
+2026-04-08 22:52:29 - INFO - successfully downloaded politifact7259.html for https://web.archive.org/web/20130116024005/http://www.pbs.org/newshour/bb/social_issues/jan-june13/keene_01-15.html
+2026-04-08 22:52:40 - INFO - successfully downloaded politifact954.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 22:52:40 - INFO - did not download politifact554.html as it already exists locally
+2026-04-08 22:52:50 - INFO - did not download politifact12418.html as it already exists locally
+2026-04-08 22:52:56 - INFO - did not download politifact4028.html as it already exists locally
+2026-04-08 22:52:56 - INFO - successfully downloaded politifact104.html for https://web.archive.org/web/20061114035029/http://mccain.senate.gov/press_office/view_article.cfm?id=34
+2026-04-08 22:53:07 - INFO - did not download politifact486.html because url is a youtube video link
+2026-04-08 22:53:07 - INFO - did not download politifact246.html as it already exists locally
+2026-04-08 22:53:12 - INFO - did not download politifact2734.html because url is a youtube video link
+2026-04-08 22:53:24 - INFO - successfully downloaded politifact462.html for https://web.archive.org/web/20080212000046/http://transcripts.cnn.com:80/TRANSCRIPTS/0802/05/ltm.03.html
+2026-04-08 22:53:24 - INFO - did not download politifact14225.html as it already exists locally
+2026-04-08 22:53:30 - INFO - successfully downloaded politifact655.html for https://web.archive.org/web/20081022203056/http://www.plannedparenthoodaction.org/campaigns/john-mccain-his-own-words-135.htm
+2026-04-08 22:53:31 - INFO - successfully downloaded politifact809.html for https://web.archive.org/web/20081016082039/http://debates.org/pages/trans2008d.html
+2026-04-08 22:53:32 - INFO - successfully downloaded politifact1052.html for https://web.archive.org/web/20090612021235/http://www.talkingpointsmemo.com:80/photofeatures/2009/06/more-czars-than-the-romanovs.php?img=1
+2026-04-08 22:53:35 - INFO - successfully downloaded politifact1435.html for https://web.archive.org/web/20081029143250/http://www.taxpolicycenter.org/numbers/displayatab.cfm?Docid=2007
+2026-04-08 22:53:35 - INFO - did not download politifact787.html as it already exists locally
+2026-04-08 22:53:36 - INFO - successfully downloaded politifact2964.html for https://web.archive.org/web/20101217214909/http://www2.tbo.com:80/content/2010/dec/13/131756/news-channel-8-anchor-keith-cate-interviews-obam1/news-politics/
+2026-04-08 22:53:47 - INFO - successfully downloaded politifact599.html for https://web.archive.org/web/20071101044550/http://obama.senate.gov/press/071018-obama_demands_i/
+2026-04-08 22:53:47 - INFO - successfully downloaded politifact681.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 22:53:47 - INFO - did not download politifact4130.html as it already exists locally
+2026-04-08 22:53:58 - INFO - did not download politifact285.html as it already exists locally
+2026-04-08 22:53:58 - INFO - did not download politifact9033.html because url is a youtube video link
+2026-04-08 22:53:58 - INFO - did not download politifact959.html as it already exists locally
+2026-04-08 22:53:58 - INFO - did not download politifact8989.html as it already exists locally
+2026-04-08 22:53:58 - INFO - successfully downloaded politifact445.html for https://web.archive.org/web/20070513055236/http://www.opensecrets.org/pres08/select.asp?Ind=K02
+2026-04-08 22:54:02 - INFO - successfully downloaded politifact211.html for http://web.archive.org/web/20101227051337/http://www.cq.com:80/graphics/moneyline/pfd/p07pfd/00000/00000014.pdf
+2026-04-08 22:54:03 - INFO - successfully downloaded politifact516.html for https://web.archive.org/web/20080610072007/http://www.newschannel5.com:80/Global/story.asp?S=8414824
+2026-04-08 22:54:08 - INFO - successfully downloaded politifact1315.html for http://web.archive.org/web/20240607121824/http://www.cnn.com/2009/US/10/30/guantanamo.h1n1.shots/index.html
+2026-04-08 22:54:08 - INFO - did not download politifact11115.html as it already exists locally
+2026-04-08 22:54:08 - INFO - did not download politifact8085.html as it already exists locally
+2026-04-08 22:54:09 - INFO - successfully downloaded politifact4181.html for https://web.archive.org/web/20090513070231/http://www.whitehouse.gov/omb/budget/Historicals/
+2026-04-08 22:54:09 - INFO - did not download politifact3192.html because url is a youtube video link
+2026-04-08 22:54:21 - INFO - successfully downloaded politifact374.html for https://web.archive.org/web/20080226201453/http://ap.google.com:80/article/ALeqM5isOFwdbq0tsqatW6vJpkDRTI1gMgD8V0T1JO0
+2026-04-08 22:54:27 - INFO - did not download politifact2816.html as it already exists locally
+2026-04-08 22:54:28 - INFO - successfully downloaded politifact1255.html for https://web.archive.org/web/20091016143946/http://www.msnbc.msn.com:80/id/33253216/ns/meet_the_press/page/3/
+2026-04-08 22:54:28 - INFO - did not download politifact6831.html as it already exists locally
+2026-04-08 22:54:28 - INFO - did not download politifact4850.html because url is a youtube video link
+2026-04-08 22:54:44 - INFO - successfully downloaded politifact339.html for https://web.archive.org/web/20080213201909/http://facts.hillaryhub.com/archive/?id=4497
+2026-04-08 22:54:55 - INFO - successfully downloaded politifact642.html for http://web.archive.org/web/20240723205723/https://www.nytimes.com/2008/08/23/us/politics/23text-biden.html
+2026-04-08 22:54:55 - INFO - successfully downloaded politifact1251.html for https://web.archive.org/web/20090924105940/http://www.rollcall.com:80/features/Health-Care_Policy-Briefing/health_care/38655-1.html
+2026-04-08 22:55:11 - INFO - successfully downloaded politifact1256.html for https://web.archive.org/web/20091014151848/http://www.pbs.org:80/newshour/bb/health/july-dec09/insurance_10-12.html
+2026-04-08 22:55:27 - INFO - did not download politifact10185.html as it already exists locally
+2026-04-08 22:55:27 - INFO - did not download politifact673.html as it already exists locally
+2026-04-08 22:55:33 - INFO - successfully downloaded politifact1500.html for https://web.archive.org/web/20100215141959/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=170154
+2026-04-08 22:56:02 - INFO - successfully downloaded politifact12751.html for http://web.archive.org/web/20250828013759/https://www.census.gov/foreign-trade/statistics/historical/goods.pdf
+2026-04-08 22:56:30 - INFO - did not download politifact975.html as it already exists locally
+2026-04-08 22:56:37 - INFO - successfully downloaded politifact181.html for https://web.archive.org/web/20011107072419/http://www.teamster.org:80/01news/hn_010731_3.htm
+2026-04-08 22:56:37 - INFO - successfully downloaded politifact502.html for https://web.archive.org/web/20070926214934/http://obama.senate.gov/press/070918-senate_passes_o_2/
+2026-04-08 22:56:37 - INFO - did not download politifact958.html as it already exists locally
+2026-04-08 22:56:38 - INFO - successfully downloaded politifact581.html for https://web.archive.org/web/20080717022107/http://www.johnmccain.com/Informing/News/PressReleases/Read.aspx?Guid=e92e0317-02b3-4345-82f9-9eac8bb0a50d
+2026-04-08 22:56:39 - INFO - successfully downloaded politifact1040.html for https://web.archive.org/web/20090604101517/http://www.whitehouse.gov/the_press_office/Background-Briefing-on-GM-Restructuring-May-31-2009/
+2026-04-08 22:56:45 - INFO - successfully downloaded politifact8537.html for http://web.archive.org/web/20060228220724/http:/energycommerce.house.gov/108/News/02152006_1778.htm
+2026-04-08 22:56:46 - INFO - successfully downloaded politifact343.html for https://web.archive.org/web/20080212013357/http://blog.aflcio.org:80/2008/02/08/writers-may-have-pact-huckabee-crosses-picket-lineagain/
+2026-04-08 22:56:46 - INFO - did not download politifact439.html as it already exists locally
+2026-04-08 22:56:46 - INFO - successfully downloaded politifact1051.html for https://web.archive.org/web/20090617192953/http://www.gop.gov/wtas/09/06/10/congressman-pence-discusses-house-republican
+2026-04-08 22:56:47 - INFO - successfully downloaded politifact1361.html for https://web.archive.org/web/20100330081658/http://switchboard.nrdc.org:80/blogs/bfinamore/chinas_carbon_intensity_target.html
+2026-04-08 22:56:47 - INFO - did not download politifact6907.html as it already exists locally
+2026-04-08 22:57:03 - INFO - did not download politifact12104.html as it already exists locally
+2026-04-08 22:57:03 - INFO - successfully downloaded politifact7182.html for https://web.archive.org/web/20121221015559/http://west.congressnewsletter.net:80/common/mailings/index.cfm?id=190
+2026-04-08 22:57:04 - INFO - successfully downloaded politifact3320.html for https://web.archive.org/web/20100405072544/http://demint.senate.gov:80/public/index.cfm?p=JimsBlog
+2026-04-08 22:57:12 - INFO - successfully downloaded politifact3898.html for http://web.archive.org/web/20110612042856/http://www.cuinsight.com:80/media/news/card_penalty_fees_soften_slightly_in_2010.html
+2026-04-08 22:57:17 - INFO - did not download politifact15133.html as it already exists locally
+2026-04-08 22:57:19 - INFO - successfully downloaded politifact600.html for https://web.archive.org/web/20010609190032/http://www.fuelgaugereport.com:80/index.asp
+2026-04-08 22:57:30 - INFO - successfully downloaded politifact1068.html for https://web.archive.org/web/20090624230658/http://www.whitehouse.gov/blog/Protecting-Our-Children-from-the-Dangers-of-Smoking/
+2026-04-08 22:57:30 - INFO - did not download politifact304.html as it already exists locally
+2026-04-08 22:57:31 - INFO - successfully downloaded politifact2281.html for https://web.archive.org/web/20100827015529/http://news.yahoo.com:80/s/ap/20100825/ap_on_re_us/us_nyc_mosque
+2026-04-08 22:57:44 - INFO - successfully downloaded politifact263.html for http://web.archive.org/web/20080525233154/http://my.barackobama.com/page/dashboard/public/gGxqkb
+2026-04-08 22:57:55 - INFO - successfully downloaded politifact943.html for https://web.archive.org/web/20090224213953/http://www.mcclatchydc.com:80/251/story/62614.html
+2026-04-08 22:58:02 - INFO - successfully downloaded politifact574.html for https://web.archive.org/web/20081101133832/http://www.campaignmoney.org/mccainairbus
+2026-04-08 22:58:03 - INFO - successfully downloaded politifact2836.html for https://web.archive.org/web/20100716185746/http://www.tsa.gov:80/approach/tech/ait/faqs.shtm
+2026-04-08 22:58:09 - INFO - successfully downloaded politifact12556.html for https://web.archive.org/web/20160709050756/https://www.donaldjtrump.com/press-releases/donald-j.-trump-on-the-stakes-of-the-election
+2026-04-08 22:58:09 - INFO - successfully downloaded politifact426.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-04-08 22:58:15 - INFO - successfully downloaded politifact84.html for https://web.archive.org/web/20070911181319/http://pol.moveon.org/petraeus.html
+2026-04-08 22:58:15 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07d30a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080506120114/http://pol.moveon.org:80/mccain10/email.html
+2026-04-08 22:58:16 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07d34c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080506120114/http://pol.moveon.org:80/mccain10/email.html
+2026-04-08 22:58:18 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07d3640>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080506120114/http://pol.moveon.org:80/mccain10/email.html
+2026-04-08 22:58:19 - INFO - successfully downloaded politifact421.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-04-08 22:58:28 - INFO - successfully downloaded politifact201.html for http://web.archive.org/web/20080919053313/http://query.nytimes.com/gst/fullpage.html?res=940DEFDD133AF933A25755C0A962958260
+2026-04-08 22:58:29 - INFO - successfully downloaded politifact7665.html for http://web.archive.org/web/20130420112755/http://www.nytimes.com/2013/04/18/opinion/a-senate-in-the-gun-lobbys-grip.html?src=me
+2026-04-08 22:58:29 - INFO - did not download politifact2594.html because url is a youtube video link
+2026-04-08 22:58:35 - INFO - successfully downloaded politifact10903.html for http://web.archive.org/web/20241121121617/https://www.businessinsider.com/estonia-efficient-tax-filing-system-world-2012-2
+2026-04-08 22:58:42 - INFO - successfully downloaded politifact10413.html for http://web.archive.org/web/20161127110545/https://www.whitehouse.gov/the-press-office/2015/01/07/remarks-president-resurgence-american-auto-industry
+2026-04-08 22:58:42 - INFO - successfully downloaded politifact1424.html for https://web.archive.org/web/20100125035945/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=167478
+2026-04-08 22:58:46 - INFO - successfully downloaded politifact4858.html for http://web.archive.org/web/20260215134213/https://mittvmitt.com/
+2026-04-08 22:58:51 - INFO - did not download politifact2450.html because url is a youtube video link
+2026-04-08 22:59:01 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07df070>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-04-08 22:59:02 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07dfeb0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-04-08 22:59:05 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07df2e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-04-08 22:59:05 - ERROR - error requesting politifact186.html for url https://web.archive.org/web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003 due to connection error handling
+2026-04-08 22:59:05 - ERROR - error requesting politifact186.html for url https://web.archive.org/web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003 as response is an empty string
+2026-04-08 22:59:10 - INFO - did not download politifact288.html because url is a youtube video link
+2026-04-08 22:59:10 - INFO - did not download politifact1899.html as it already exists locally
+2026-04-08 22:59:10 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07765e0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm
+2026-04-08 22:59:11 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e0776760>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm
+2026-04-08 22:59:13 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e0776940>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm
+2026-04-08 22:59:13 - ERROR - error requesting politifact700.html for url https://web.archive.org/web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm due to connection error handling
+2026-04-08 22:59:13 - ERROR - error requesting politifact700.html for url https://web.archive.org/web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm as response is an empty string
+2026-04-08 22:59:13 - INFO - did not download politifact12120.html as it already exists locally
+2026-04-08 22:59:13 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e0774610>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html
+2026-04-08 22:59:14 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07764c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html
+2026-04-08 22:59:17 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e0776a00>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html
+2026-04-08 22:59:17 - ERROR - error requesting politifact1140.html for url https://web.archive.org/web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html due to connection error handling
+2026-04-08 22:59:17 - ERROR - error requesting politifact1140.html for url https://web.archive.org/web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html as response is an empty string
+2026-04-08 22:59:17 - INFO - did not download politifact13052.html as it already exists locally
+2026-04-08 22:59:17 - INFO - did not download politifact4879.html as it already exists locally
+2026-04-08 22:59:27 - INFO - did not download politifact13395.html as it already exists locally
+2026-04-08 22:59:45 - INFO - did not download politifact14174.html as it already exists locally
+2026-04-08 22:59:46 - INFO - successfully downloaded politifact13855.html for https://web.archive.org/web/20170313220530/https://www.whitehouse.gov/the-press-office/2017/03/13/remarks-president-trump-listening-session-healthcare
+2026-04-08 22:59:46 - INFO - did not download politifact6537.html because url is a youtube video link
+2026-04-08 22:59:51 - INFO - did not download politifact6519.html because url is a youtube video link
+2026-04-08 22:59:52 - INFO - successfully downloaded politifact74.html for https://web.archive.org/web/20070915144031/http://www.kff.org:80/insurance/7672/
+2026-04-08 22:59:58 - INFO - did not download politifact13305.html as it already exists locally
+2026-04-08 23:00:12 - INFO - successfully downloaded politifact2131.html for http://web.archive.org/web/20130120095631/http://www.msnbc.msn.com/id/38384219/ns/meet_the_press-transcripts
+2026-04-08 23:00:17 - INFO - did not download politifact11314.html as it already exists locally
+2026-04-08 23:00:18 - INFO - successfully downloaded politifact323.html for https://web.archive.org/web/20080131000131/http://www.barackobama.com/2008/01/30/remarks_of_senator_barack_obam_45.php
+2026-04-08 23:00:30 - INFO - successfully downloaded politifact35.html for https://web.archive.org/web/20070825014950/http://www.mcclatchydc.com:80/iraq/story/18861.html
+2026-04-08 23:00:30 - INFO - successfully downloaded politifact3584.html for https://web.archive.org/web/20110416110045/http://projects.washingtonpost.com:80/obama-speeches/speech/622
+2026-04-08 23:00:30 - INFO - did not download politifact939.html as it already exists locally
+2026-04-08 23:00:32 - INFO - successfully downloaded politifact1924.html for http://web.archive.org/web/20250720071007/https://radaronline.com/exclusives/2010/06/video-jersey-shore-cast-weathers-storm-sophomore-season-preview/
+2026-04-08 23:00:32 - INFO - did not download politifact1185.html because url is a youtube video link
+2026-04-08 23:00:32 - INFO - successfully downloaded politifact1053.html for https://web.archive.org/web/20050507232712/http://www.ssa.gov:80/OACT/babynames/namesbystate.html
+2026-04-08 23:00:33 - INFO - successfully downloaded politifact208.html for https://web.archive.org/web/20070829110221/http://hitwise.com/political-data-center/key-candidates.php
+2026-04-08 23:00:43 - INFO - did not download politifact8805.html as it already exists locally
+2026-04-08 23:00:43 - INFO - did not download politifact9151.html as it already exists locally
+2026-04-08 23:00:48 - INFO - did not download politifact13352.html as it already exists locally
+2026-04-08 23:00:48 - INFO - did not download politifact408.html as it already exists locally
+2026-04-08 23:00:48 - INFO - did not download politifact1014.html as it already exists locally
+2026-04-08 23:01:00 - INFO - successfully downloaded politifact14114.html for http://web.archive.org/web/20190916221924/http://www.economist.com/trumptranscript
+2026-04-08 23:01:11 - INFO - successfully downloaded politifact2208.html for https://web.archive.org/web/20090503050002/http://www.google.com/url?sa=t
+2026-04-08 23:01:23 - INFO - successfully downloaded politifact7258.html for https://web.archive.org/web/20121222121141/http://www.pbs.org/newshour/bb/politics/july-dec12/shieldsgerson_12-21.html
+2026-04-08 23:01:32 - INFO - successfully downloaded politifact669.html for https://web.archive.org/web/20080817004723/http://www.cqpolitics.com:80/cq-assets/cqmultimedia/flash/votestudy/index.html
+2026-04-08 23:01:32 - INFO - did not download politifact7540.html because url is a youtube video link
+2026-04-08 23:01:32 - INFO - did not download politifact11399.html because url is a youtube video link
+2026-04-08 23:01:38 - INFO - did not download politifact13682.html as it already exists locally
+2026-04-08 23:01:59 - INFO - did not download politifact509.html because url is a youtube video link
+2026-04-08 23:01:59 - INFO - did not download politifact3455.html as it already exists locally
+2026-04-08 23:02:07 - INFO - successfully downloaded politifact429.html for http://web.archive.org/web/20100626122700/http://www.citizenlink.org/focusaction/updates/A000006979.cfm
+2026-04-08 23:02:07 - INFO - successfully downloaded politifact214.html for https://web.archive.org/web/20071206011805/http://www.hillaryclinton.com/news/release/view/?id=4479
+2026-04-08 23:02:13 - INFO - successfully downloaded politifact4372.html for http://web.archive.org/web/20210307230657/https://www.pbs.org/wnet/need-to-know/economy/this-labor-day-we-need-protests/11228/
+2026-04-08 23:02:22 - INFO - successfully downloaded politifact8995.html for http://web.archive.org/web/20231130234211/https://www.documentcloud.org/documents/1033869-waronpoverty50.html
+2026-04-08 23:02:22 - INFO - did not download politifact1678.html as it already exists locally
+2026-04-08 23:02:22 - INFO - successfully downloaded politifact2258.html for https://web.archive.org/web/20100821215324/http://republicans.foreignaffairs.house.gov:80/press_display.asp?id=1583
+2026-04-08 23:02:22 - INFO - did not download politifact539.html as it already exists locally
+2026-04-08 23:02:33 - INFO - successfully downloaded politifact1026.html for https://web.archive.org/web/20090514023215/http://republicanleader.house.gov/News/DocumentSingle.aspx?DocumentID=125333
+2026-04-08 23:02:33 - INFO - did not download politifact10877.html as it already exists locally
+2026-04-08 23:02:33 - INFO - did not download politifact200.html as it already exists locally
+2026-04-08 23:02:34 - INFO - successfully downloaded politifact724.html for https://web.archive.org/web/20050615041207/http://www.irs.gov:80/taxstats/indtaxstats/article/0,,id=134951,00.html
+2026-04-08 23:02:36 - INFO - successfully downloaded politifact8259.html for http://web.archive.org/web/20210608204825/http://transcripts.cnn.com/TRANSCRIPTS/1309/10/cfr.01.html
+2026-04-08 23:02:36 - INFO - successfully downloaded politifact7390.html for https://web.archive.org/web/20130209000637/http://www.whitehouse.gov/state-of-the-union-2013
+2026-04-08 23:02:36 - INFO - did not download politifact7669.html as it already exists locally
+2026-04-08 23:02:39 - INFO - did not download politifact695.html as it already exists locally
+2026-04-08 23:02:39 - INFO - successfully downloaded politifact691.html for https://web.archive.org/web/20080911193042/http://www.adn.com:80/sarah-palin/background/story/203814.html
+2026-04-08 23:02:40 - INFO - successfully downloaded politifact1779.html for https://web.archive.org/web/20100513074658/http://video.foxnews.com:80/v/4186199/barasso-ready-to-question-kagan
+2026-04-08 23:02:51 - INFO - did not download politifact5632.html because url is a youtube video link
+2026-04-08 23:02:51 - INFO - did not download politifact13477.html as it already exists locally
+2026-04-08 23:02:51 - INFO - successfully downloaded politifact772.html for https://web.archive.org/web/20081006202026/http://abcnews.go.com:80/Politics/Decision2008/story?id=3498294,
+2026-04-08 23:02:51 - INFO - did not download politifact348.html as it already exists locally
+2026-04-08 23:02:57 - INFO - successfully downloaded politifact128.html for https://web.archive.org/web/20061206054712/http://www.irs.gov:80/formspubs/article/0,,id=164272,00.html
+2026-04-08 23:02:57 - INFO - did not download politifact320.html because url is a youtube video link
+2026-04-08 23:03:02 - INFO - did not download politifact11711.html as it already exists locally
+2026-04-08 23:03:04 - INFO - successfully downloaded politifact1442.html for https://web.archive.org/web/20100105223912/http://republicanleader.house.gov/blog/?m=201001
+2026-04-08 23:03:04 - INFO - did not download politifact9802.html as it already exists locally
+2026-04-08 23:03:22 - INFO - successfully downloaded politifact5237.html for http://web.archive.org/web/20191218065307/https://www.politifact.com/virginia/statements/2011/mar/11/morgan-griffith/morgan-griffith-says-epa-treats-milk-spills-same-w/
+2026-04-08 23:03:22 - INFO - successfully downloaded politifact769.html for https://web.archive.org/web/20080817004723/http://www.cqpolitics.com:80/cq-assets/cqmultimedia/flash/votestudy/index.html
+2026-04-08 23:03:38 - INFO - did not download politifact736.html as it already exists locally
+2026-04-08 23:03:43 - INFO - did not download politifact608.html because url is a youtube video link
+2026-04-08 23:03:43 - INFO - did not download politifact7668.html as it already exists locally
+2026-04-08 23:03:43 - INFO - did not download politifact1892.html as it already exists locally
+2026-04-08 23:03:44 - INFO - successfully downloaded politifact2013.html for https://web.archive.org/web/20090628092209/http://www.azdps.gov:80/About/Reports/Crime_In_Arizona/
+2026-04-08 23:03:50 - INFO - successfully downloaded politifact31.html for https://web.archive.org/web/20051210114606/http://www.allianceforschoolchoice.org:80/school_choice_history.aspx
+2026-04-08 23:03:50 - INFO - did not download politifact287.html as it already exists locally
+2026-04-08 23:03:55 - INFO - did not download politifact12748.html as it already exists locally
+2026-04-08 23:03:55 - INFO - did not download politifact207.html as it already exists locally
+2026-04-08 23:03:55 - INFO - did not download politifact677.html as it already exists locally
+2026-04-08 23:03:55 - INFO - did not download politifact3115.html as it already exists locally
+2026-04-08 23:03:55 - ERROR - failed to download politifact87.html as internet archive api did not return JSON
+2026-04-08 23:04:03 - INFO - successfully downloaded politifact13226.html for http://web.archive.org/web/20260303011128/https://www.census.gov/content/dam/Census/library/publications/2016/demo/p60-257.pdf
+2026-04-08 23:04:09 - INFO - successfully downloaded politifact671.html for https://web.archive.org/web/20080828144739/http://www.demconvention.com/joe-biden/
+2026-04-08 23:04:12 - INFO - successfully downloaded politifact968.html for http://web.archive.org/web/20220813023132/https://www.politico.com/news/stories/0309/20344.html
+2026-04-08 23:04:28 - INFO - did not download politifact596.html because url is a youtube video link
+2026-04-08 23:04:28 - INFO - did not download politifact11208.html as it already exists locally
+2026-04-08 23:04:28 - INFO - successfully downloaded politifact3228.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-04-08 23:04:29 - INFO - did not download politifact4926.html as it already exists locally
+2026-04-08 23:04:29 - INFO - did not download politifact498.html because url is a youtube video link
+2026-04-08 23:04:40 - INFO - successfully downloaded politifact1047.html for https://web.archive.org/web/20090612062614/http://www.ustreas.gov:80/press/releases/tg162.htm
+2026-04-08 23:04:41 - INFO - successfully downloaded politifact228.html for https://web.archive.org/web/20071020185442/http://www.taxpolicycenter.org/numbers/displayatab.cfm?DocID=1390
+2026-04-08 23:04:41 - INFO - did not download politifact495.html as it already exists locally
+2026-04-08 23:04:42 - INFO - successfully downloaded politifact1038.html for https://web.archive.org/web/20001109011000/http://www.nrdc.org:80/nuclear/nudb/datab15.asp
+2026-04-08 23:04:43 - INFO - successfully downloaded politifact1465.html for https://web.archive.org/web/20100201043706/http://www.whitehouse.gov:80/the-press-office/remarks-president-gop-house-issues-conference
+2026-04-08 23:04:43 - INFO - successfully downloaded politifact396.html for https://web.archive.org/web/20060930180024/http://clinton.senate.gov/news/statements/details.cfm?id=233783
+2026-04-08 23:04:43 - INFO - did not download politifact279.html because url is a youtube video link
+2026-04-08 23:05:04 - INFO - did not download politifact341.html because url is a youtube video link
+2026-04-08 23:05:07 - INFO - successfully downloaded politifact11072.html for http://web.archive.org/web/20170226191647/http://www.foxnews.com/transcript/2015/07/12/mcconnell-webb-jindal-express-uncertainty-over-iran-nuclear-deal/
+2026-04-08 23:05:07 - INFO - did not download politifact3734.html as it already exists locally
+2026-04-08 23:05:07 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07a9be0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080206222702/http://www.mittromney.com/News/Press-Releases/Kerry_McCain
+2026-04-08 23:05:08 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07ad0d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080206222702/http://www.mittromney.com/News/Press-Releases/Kerry_McCain
+2026-04-08 23:05:10 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07ad2b0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080206222702/http://www.mittromney.com/News/Press-Releases/Kerry_McCain
+2026-04-08 23:05:10 - ERROR - error requesting politifact336.html for url https://web.archive.org/web/20080206222702/http://www.mittromney.com/News/Press-Releases/Kerry_McCain due to connection error handling
+2026-04-08 23:05:10 - ERROR - error requesting politifact336.html for url https://web.archive.org/web/20080206222702/http://www.mittromney.com/News/Press-Releases/Kerry_McCain as response is an empty string
+2026-04-08 23:05:11 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07addf0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070613045339/http://obama.senate.gov/press/070322-obama_urges_ber/
+2026-04-08 23:05:12 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07ad190>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070613045339/http://obama.senate.gov/press/070322-obama_urges_ber/
+2026-04-08 23:05:14 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe3e07ad880>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070613045339/http://obama.senate.gov/press/070322-obama_urges_ber/
+2026-04-08 23:05:14 - INFO - successfully downloaded politifact785.html for https://web.archive.org/web/20070613045339/http://obama.senate.gov/press/070322-obama_urges_ber/
+2026-04-08 23:05:14 - INFO - did not download politifact14511.html as it already exists locally
+2026-04-08 23:05:19 - INFO - did not download politifact8221.html as it already exists locally
+2026-04-08 23:05:31 - INFO - successfully downloaded politifact528.html for https://web.archive.org/web/20080514182038/http://johnmccain.com/climatechange/
+2026-04-08 23:05:46 - INFO - successfully downloaded politifact3581.html for http://web.archive.org/web/20181105231808/https://www.politifact.com/truth-o-meter/statements/2009/nov/11/sean-hannity/hannity-says-obama-wont-even-use-term-war-terroris/
+2026-04-08 23:05:46 - INFO - did not download politifact5447.html because url is a youtube video link
+2026-04-08 23:05:52 - INFO - did not download politifact6277.html because url is a youtube video link
+2026-04-08 23:05:57 - INFO - did not download politifact12755.html as it already exists locally
+2026-04-08 23:05:57 - INFO - did not download politifact9107.html as it already exists locally
+2026-04-08 23:05:59 - INFO - successfully downloaded politifact527.html for https://web.archive.org/web/20090113114854/http://thepage.time.com:80/obamas-full-remarks-at-chicago-credit-cards-event/
+2026-04-08 23:06:05 - INFO - successfully downloaded politifact6646.html for http://web.archive.org/web/20191113100217/https://www.politifact.com/truth-o-meter/statements/2012/aug/15/stephanie-cutter/ryans-plan-includes-700-billion-medicare-cuts-says/
+2026-04-08 23:06:05 - INFO - did not download politifact773.html as it already exists locally
+2026-04-08 23:06:05 - INFO - did not download politifact1575.html as it already exists locally
+2026-04-08 23:06:15 - INFO - successfully downloaded politifact1180.html for http://web.archive.org/web/20251225153803/https://www.nytimes.com/2009/09/10/us/politics/10obama.text.html
+2026-04-08 23:06:16 - INFO - successfully downloaded politifact206.html for https://web.archive.org/web/20071020151813/http://capitaleye.org:80/inside.asp?ID=311
+2026-04-08 23:06:21 - INFO - did not download politifact409.html as it already exists locally
+2026-04-08 23:06:31 - INFO - did not download politifact1614.html as it already exists locally
+2026-04-08 23:06:38 - INFO - successfully downloaded politifact6998.html for https://web.archive.org/web/20121023081044/http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/10/22/the-full-transcript-of-the-third-presidential-debate/
+2026-04-08 23:06:54 - INFO - did not download politifact2393.html because url is a youtube video link
+2026-04-08 23:07:04 - INFO - did not download politifact310.html as it already exists locally
+2026-04-08 23:07:10 - INFO - successfully downloaded politifact2758.html for https://web.archive.org/web/20101103082821/http://gopleader.gov/News/DocumentSingle.aspx?DocumentID=213442
+2026-04-08 23:07:10 - INFO - did not download politifact1013.html as it already exists locally
+2026-04-08 23:07:10 - INFO - did not download politifact2318.html as it already exists locally
+2026-04-08 23:07:10 - INFO - did not download politifact377.html as it already exists locally
+2026-04-08 23:07:11 - INFO - successfully downloaded politifact351.html for https://web.archive.org/web/20080126233643/http://www.chicagotribune.com:80/news/local/chi-070403obama-ballot,0,1843097.story?page=1
+2026-04-08 23:07:15 - INFO - successfully downloaded politifact9438.html for https://web.archive.org/web/20130314224614/http://www.washingtonpost.com/blogs/wonkblog/wp/2013/03/08/everything-you-need-to-know-about-the-drone-debate-in-one-faq/
+2026-04-08 23:07:15 - INFO - did not download politifact15645.html because url is a youtube video link
+2026-04-08 23:07:15 - INFO - did not download politifact319.html because url is a youtube video link
+2026-04-08 23:07:20 - INFO - did not download politifact1337.html as it already exists locally
+2026-04-08 23:07:21 - INFO - successfully downloaded politifact834.html for https://web.archive.org/web/20081202093502/http://afp.google.com:80/article/ALeqM5i2cTbnZTDVHPcifBpEzmkfqOOtlg
+2026-04-08 23:07:26 - INFO - did not download politifact440.html as it already exists locally
+2026-04-08 23:07:31 - INFO - did not download politifact5439.html because url is a youtube video link
+2026-04-08 23:07:36 - INFO - did not download politifact10787.html as it already exists locally
+2026-04-08 23:07:36 - INFO - did not download politifact5011.html because url is a youtube video link
+2026-04-08 23:07:41 - INFO - successfully downloaded politifact8629.html for http://web.archive.org/web/20140917091502/https://www.aft.org/pdfs/americaneducator/spring2003/TheEarlyCatastrophe.pdf
+2026-04-08 23:07:41 - INFO - did not download politifact10533.html as it already exists locally
+2026-04-08 23:07:41 - INFO - did not download politifact6556.html as it already exists locally
+2026-04-08 23:07:47 - INFO - successfully downloaded politifact6146.html for https://web.archive.org/web/20120619023435/http://www.foxnews.com/on-air/fox-news-sunday/2012/06/17/david-plouffe-sen-joe-lieberman-and-gen-michael-hayden-talk-national-security-leaks?page=3
+2026-04-08 23:07:52 - INFO - did not download politifact6234.html as it already exists locally
+2026-04-08 23:07:53 - INFO - successfully downloaded politifact546.html for https://web.archive.org/web/20080619025707/http://www.tampabay.com:80/news/politics/elections/article628630.ece
+2026-04-08 23:08:09 - INFO - successfully downloaded politifact910.html for https://web.archive.org/web/20090120134739/http://www.pbs.org:80/newshour/bb/social_issues/jan-june09/slaverydc_01-16.html
+2026-04-08 23:08:10 - INFO - successfully downloaded politifact1446.html for https://web.archive.org/web/20090910073834/http://www.whitehouse.gov/the_press_office/Remarks-by-the-President-at-AFL-CIO-Labor-Day-Picnic/
+2026-04-08 23:08:10 - INFO - did not download politifact15175.html as it already exists locally
+2026-04-08 23:08:11 - INFO - successfully downloaded politifact1202.html for https://web.archive.org/web/20090919163055/http://www.whitehouse.gov/the_press_office/Remarks-by-the-First-Lady-on-What-Health-Insurance-Reform-Means-for-Women-and-Families/
+2026-04-08 23:08:17 - INFO - successfully downloaded politifact825.html for https://web.archive.org/web/20081030004908/http://www.plannedparenthoodaction.org/campaigns/386.htm
+2026-04-08 23:08:17 - INFO - did not download politifact435.html as it already exists locally
+2026-04-08 23:08:17 - INFO - successfully downloaded politifact582.html for https://web.archive.org/web/20070808173432/http://www.barackobama.com/2007/08/01/remarks_of_senator_obama_the_w_1.php
+2026-04-08 23:08:25 - INFO - did not download politifact6267.html because url is a youtube video link
+2026-04-08 23:08:35 - INFO - successfully downloaded politifact4306.html for http://web.archive.org/web/20260208213546/https://www.nytimes.com/2011/08/15/opinion/stop-coddling-the-super-rich.html
+2026-04-08 23:08:35 - INFO - did not download politifact11416.html as it already exists locally
+2026-04-08 23:08:35 - INFO - did not download politifact13443.html as it already exists locally
+2026-04-08 23:08:39 - INFO - successfully downloaded politifact12721.html for https://web.archive.org/web/20150816005009/http://www.hillaryclinton.com:80/briefing/factsheets/2015/07/13/email-facts/
+2026-04-08 23:08:44 - INFO - did not download politifact6360.html as it already exists locally
+2026-04-08 23:09:01 - INFO - successfully downloaded politifact134.html for https://web.archive.org/web/20070625210514/http://clinton.senate.gov/news/statements/details.cfm?id=277627
+2026-04-08 23:09:01 - INFO - did not download politifact11627.html as it already exists locally
+2026-04-08 23:09:01 - INFO - did not download politifact12052.html as it already exists locally
+2026-04-08 23:09:02 - INFO - successfully downloaded politifact690.html for https://web.archive.org/web/20081204120104/http://www.haysresearch.com/oc072508.htm
+2026-04-08 23:09:18 - INFO - did not download politifact8152.html as it already exists locally
+2026-04-08 23:09:25 - INFO - did not download politifact13619.html as it already exists locally
+2026-04-08 23:09:31 - INFO - successfully downloaded politifact329.html for https://web.archive.org/web/20080131000131/http://www.barackobama.com/2008/01/30/remarks_of_senator_barack_obam_45.php
+2026-04-08 23:09:31 - INFO - did not download politifact1576.html because url is a youtube video link
+2026-04-08 23:09:31 - INFO - did not download politifact4720.html because url is a youtube video link
+2026-04-08 23:09:35 - INFO - successfully downloaded politifact52.html for https://web.archive.org/web/20071102131244/http://vote-smart.org:80/issue_rating_category.php?can_id=9490
+2026-05-07 01:47:13 - ERROR - failed to download politifact14984.html as internet archive api did not return JSON
+2026-05-07 01:47:18 - ERROR - failed to download politifact12944.html as internet archive api did not return JSON
+2026-05-07 01:47:19 - INFO - successfully downloaded politifact333.html for https://web.archive.org/web/20080204072132/http://www.rockymountainnews.com:80/news/2008/feb/02/romney-tells-denver-crowd-he-can-salvage-economy/
+2026-05-07 01:47:20 - INFO - successfully downloaded politifact4358.html for https://web.archive.org/web/20110811143753/http://www.dems.gov/press/democratic-leaders-say-house-democrats-are-united-against-gop-default-act
+2026-05-07 01:47:21 - INFO - successfully downloaded politifact779.html for https://web.archive.org/web/20070820164107/http://www.whitehouse.gov/omb/budget/fy2008/outlook.html
+2026-05-07 01:47:21 - INFO - did not download politifact14064.html as it already exists locally
+2026-05-07 01:47:42 - INFO - successfully downloaded politifact1313.html for https://web.archive.org/web/20090913221204/http://www.whitehouse.gov:80/the_press_office/Briefing-by-White-House-Press-Secretary-Robert-Gibbs-9/10/09
+2026-05-07 01:47:42 - INFO - successfully downloaded politifact937.html for https://web.archive.org/web/20080623122709/http://www.sciam.com/article.cfm?id=a-solar-grand-plan
+2026-05-07 01:47:48 - ERROR - failed to download politifact8227.html as internet archive api did not return JSON
+2026-05-07 01:47:48 - INFO - did not download politifact1519.html as it already exists locally
+2026-05-07 01:47:58 - INFO - successfully downloaded politifact13068.html for http://web.archive.org/web/20240520183541/https://politicaladarchive.org/ad/polad_donaldtrump_k1mkc/
+2026-05-07 01:48:13 - ERROR - failed to download politifact7293.html as internet archive api did not return JSON
+2026-05-07 01:48:13 - INFO - did not download politifact1783.html as it already exists locally
+2026-05-07 01:48:19 - ERROR - failed to download politifact9691.html as internet archive api did not return JSON
+2026-05-07 01:48:34 - ERROR - failed to download politifact13420.html as internet archive api did not return JSON
+2026-05-07 01:48:34 - INFO - successfully downloaded politifact423.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-05-07 01:48:34 - INFO - did not download politifact9734.html because url is a youtube video link
+2026-05-07 01:48:50 - ERROR - failed to download politifact13132.html as internet archive api did not return JSON
+2026-05-07 01:48:55 - ERROR - failed to download politifact4809.html as internet archive api did not return JSON
+2026-05-07 01:49:34 - INFO - successfully downloaded politifact1823.html for https://web.archive.org/web/20100523071827/http://www.nbc.com:80/the-tonight-show/video/thursday-may-20-2010/1229565/
+2026-05-07 01:49:34 - INFO - did not download politifact2166.html as it already exists locally
+2026-05-07 01:49:35 - INFO - successfully downloaded politifact13303.html for https://web.archive.org/web/20161007194921/https://www.dni.gov/index.php/newsroom/press-releases/215-press-releases-2016/1423-joint-dhs-odni-election-security-statement
+2026-05-07 01:49:45 - INFO - did not download politifact3892.html because url is a youtube video link
+2026-05-07 01:49:45 - INFO - did not download politifact6641.html as it already exists locally
+2026-05-07 01:50:15 - INFO - did not download politifact806.html as it already exists locally
+2026-05-07 01:50:16 - INFO - successfully downloaded politifact1436.html for https://web.archive.org/web/20091229194623/http://www.bobmcdonnell.com/index.php/press_releases/details/mcdonnell_letter_urges_no_delay_in_virginia_offshore_energy_exploration_and/
+2026-05-07 01:50:26 - INFO - did not download politifact14036.html as it already exists locally
+2026-05-07 01:50:27 - INFO - successfully downloaded politifact537.html for https://web.archive.org/web/20080618171108/http://www.barackobama.com:80/2008/06/15/remarks_of_senator_barack_obam_78.php
+2026-05-07 01:50:28 - INFO - successfully downloaded politifact118.html for https://web.archive.org/web/20070321075045/http://www.asce.org:80/reportcard/2005/actionplan07.cfm
+2026-05-07 01:50:28 - INFO - did not download politifact9576.html as it already exists locally
+2026-05-07 01:50:28 - INFO - successfully downloaded politifact356.html for https://web.archive.org/web/20070105024255/http://www.focusonthefamily.com:80/press/focusvoices/A000000025.cfm
+2026-05-07 01:50:28 - INFO - did not download politifact401.html because url is a youtube video link
+2026-05-07 01:50:28 - INFO - did not download politifact384.html because url is a youtube video link
+2026-05-07 01:50:29 - INFO - successfully downloaded politifact12148.html for https://web.archive.org/web/20160325190204/https://www.hillaryclinton.com/speeches/remarks-counterterrorism-stanford-university/
+2026-05-07 01:50:39 - INFO - did not download politifact5778.html as it already exists locally
+2026-05-07 01:50:40 - INFO - successfully downloaded politifact3341.html for https://web.archive.org/web/20110223135940/http://www.ryannewman.org:80/discussions_display/id-1025
+2026-05-07 01:51:11 - INFO - successfully downloaded politifact551.html for https://web.archive.org/web/20080619050133/http://www.democracynow.org:80/2008/6/18/ralph_nader_on_barack_obama_it
+2026-05-07 01:51:22 - INFO - successfully downloaded politifact51.html for https://web.archive.org/web/20070103020730/http://www.cdc.gov:80/nchs/products/pubs/pubd/hestats/prelimbirths05/prelimbirths05.htm
+2026-05-07 01:51:49 - INFO - did not download politifact11899.html as it already exists locally
+2026-05-07 01:51:50 - INFO - successfully downloaded politifact514.html for https://web.archive.org/web/20080606124724/http://www.tampabay.com:80/news/politics/state/article607793.ece
+2026-05-07 01:51:50 - INFO - did not download politifact385.html as it already exists locally
+2026-05-07 01:51:51 - INFO - successfully downloaded politifact2298.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-05-07 01:51:52 - INFO - successfully downloaded politifact1216.html for https://web.archive.org/web/20091003005639/http://barackobamaexperiment.com:80/posts/1575
+2026-05-07 01:51:52 - INFO - did not download politifact11989.html as it already exists locally
+2026-05-07 01:51:52 - INFO - did not download politifact1307.html as it already exists locally
+2026-05-07 01:51:52 - INFO - did not download politifact13833.html as it already exists locally
+2026-05-07 01:51:57 - ERROR - failed to download politifact636.html as internet archive api did not return JSON
+2026-05-07 01:51:57 - INFO - successfully downloaded politifact442.html for https://web.archive.org/web/20070513055402/http://www.opensecrets.org/pres08/select.asp?Ind=E01
+2026-05-07 01:51:59 - INFO - successfully downloaded politifact1135.html for https://web.archive.org/web/20090816153543/http://www.whitehouse.gov:80/blog/The-Return-of-the-Viral-Email
+2026-05-07 01:51:59 - INFO - did not download politifact3693.html as it already exists locally
+2026-05-07 01:52:04 - ERROR - failed to download politifact10408.html as internet archive api did not return JSON
+2026-05-07 01:52:04 - INFO - did not download politifact620.html because url is a youtube video link
+2026-05-07 01:52:04 - INFO - did not download politifact979.html as it already exists locally
+2026-05-07 01:52:09 - ERROR - failed to download politifact13310.html as internet archive api did not return JSON
+2026-05-07 01:52:14 - ERROR - failed to download politifact1281.html as internet archive api did not return JSON
+2026-05-07 01:52:16 - INFO - successfully downloaded politifact129.html for https://web.archive.org/web/20071020022110/http://action.getourtroopsout.com:80/page/content/candidatesonnoresidualtroops/
+2026-05-07 01:52:36 - INFO - did not download politifact746.html because url is a youtube video link
+2026-05-07 01:52:57 - INFO - did not download politifact1755.html as it already exists locally
+2026-05-07 01:53:02 - ERROR - failed to download politifact245.html as internet archive api did not return JSON
+2026-05-07 01:53:02 - INFO - did not download politifact14940.html as it already exists locally
+2026-05-07 01:53:02 - INFO - did not download politifact2093.html as it already exists locally
+2026-05-07 01:53:04 - INFO - successfully downloaded politifact20.html for https://web.archive.org/web/20070602151138/http://www.foreignaffairs.org:80/20070701faessay86402/mitt-romney/rising-to-a-new-generation-of-global-challenges.html?
+2026-05-07 01:53:04 - INFO - did not download politifact1177.html as it already exists locally
+2026-05-07 01:53:09 - ERROR - failed to download politifact4875.html as internet archive api did not return JSON
+2026-05-07 01:53:29 - INFO - did not download politifact182.html as it already exists locally
+2026-05-07 01:53:29 - INFO - did not download politifact13193.html as it already exists locally
+2026-05-07 01:53:29 - INFO - did not download politifact763.html as it already exists locally
+2026-05-07 01:53:30 - INFO - successfully downloaded politifact7563.html for https://web.archive.org/web/20050226122120/http://judiciary.house.gov/legacy/lapierre.htm
+2026-05-07 01:53:36 - ERROR - failed to download politifact6612.html as internet archive api did not return JSON
+2026-05-07 01:54:06 - INFO - did not download politifact3050.html as it already exists locally
+2026-05-07 01:54:06 - INFO - successfully downloaded politifact998.html for https://web.archive.org/web/20090425195727/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=123296
+2026-05-07 01:54:06 - INFO - did not download politifact1488.html as it already exists locally
+2026-05-07 01:54:06 - INFO - did not download politifact1143.html as it already exists locally
+2026-05-07 01:54:12 - ERROR - failed to download politifact8118.html as internet archive api did not return JSON
+2026-05-07 01:54:17 - ERROR - failed to download politifact1213.html as internet archive api did not return JSON
+2026-05-07 01:54:22 - ERROR - failed to download politifact65.html as internet archive api did not return JSON
+2026-05-07 01:54:22 - INFO - did not download politifact2943.html as it already exists locally
+2026-05-07 01:54:27 - ERROR - failed to download politifact1741.html as internet archive api did not return JSON
+2026-05-07 01:54:32 - ERROR - failed to download politifact11855.html as internet archive api did not return JSON
+2026-05-07 01:54:32 - INFO - did not download politifact8737.html as it already exists locally
+2026-05-07 01:54:38 - ERROR - failed to download politifact1731.html as internet archive api did not return JSON
+2026-05-07 01:54:57 - INFO - did not download politifact9512.html because url is a youtube video link
+2026-05-07 01:54:57 - INFO - did not download politifact497.html because url is a youtube video link
+2026-05-07 01:54:57 - INFO - did not download politifact6730.html as it already exists locally
+2026-05-07 01:55:02 - ERROR - failed to download politifact2019.html as internet archive api did not return JSON
+2026-05-07 01:55:07 - ERROR - failed to download politifact7888.html as internet archive api did not return JSON
+2026-05-07 01:55:07 - INFO - did not download politifact12924.html as it already exists locally
+2026-05-07 01:55:07 - INFO - did not download politifact8130.html as it already exists locally
+2026-05-07 01:55:13 - ERROR - failed to download politifact5608.html as internet archive api did not return JSON
+2026-05-07 01:55:13 - INFO - did not download politifact783.html as it already exists locally
+2026-05-07 01:55:13 - INFO - successfully downloaded politifact258.html for https://web.archive.org/web/20080108202709/https://www.mittromney.com/News/Press-Releases/Ad_Remember
+2026-05-07 01:55:14 - INFO - successfully downloaded politifact412.html for https://web.archive.org/web/20060418144436/http://www.gravel2008.us:80/
+2026-05-07 01:55:14 - INFO - did not download politifact1212.html because url is a youtube video link
+2026-05-07 01:55:24 - INFO - did not download politifact1820.html as it already exists locally
+2026-05-07 01:55:24 - INFO - did not download politifact2624.html because url is a youtube video link
+2026-05-07 01:55:29 - ERROR - failed to download politifact7506.html as internet archive api did not return JSON
+2026-05-07 01:55:39 - INFO - did not download politifact247.html as it already exists locally
+2026-05-07 01:55:50 - INFO - did not download politifact7968.html as it already exists locally
+2026-05-07 01:55:50 - INFO - did not download politifact5469.html because url is a youtube video link
+2026-05-07 01:55:50 - INFO - successfully downloaded politifact548.html for https://web.archive.org/web/20081006131457/http://www.politifact.com:80/truth-o-meter/mccainpledge/
+2026-05-07 01:55:50 - INFO - did not download politifact780.html as it already exists locally
+2026-05-07 01:56:00 - INFO - did not download politifact11189.html as it already exists locally
+2026-05-07 01:56:00 - INFO - did not download politifact6408.html because url is a youtube video link
+2026-05-07 01:56:00 - INFO - did not download politifact7618.html as it already exists locally
+2026-05-07 01:56:01 - INFO - successfully downloaded politifact312.html for https://web.archive.org/web/20071016102723/http://eia.doe.gov:80/emeu/cabs/Saudi_Arabia/Oil.html
+2026-05-07 01:56:01 - INFO - did not download politifact8846.html as it already exists locally
+2026-05-07 01:56:01 - INFO - successfully downloaded politifact357.html for https://web.archive.org/web/20071016232328/http://frontpagemagazine.com:80/Articles/Read.aspx?GUID=5541E159-6AD5-4CC9-B24D-38374624608C
+2026-05-07 01:56:07 - ERROR - failed to download politifact10332.html as internet archive api did not return JSON
+2026-05-07 01:56:12 - ERROR - failed to download politifact1279.html as internet archive api did not return JSON
+2026-05-07 01:56:53 - INFO - did not download politifact13431.html as it already exists locally
+2026-05-07 01:56:53 - INFO - did not download politifact12627.html as it already exists locally
+2026-05-07 01:56:58 - ERROR - failed to download politifact13130.html as internet archive api did not return JSON
+2026-05-07 01:56:59 - INFO - successfully downloaded politifact567.html for https://web.archive.org/web/20080709210822/http://johnmccain.com/Informing/News/PressReleases/26d74083-c92b-44e9-9600-4e3c30b9a3fb.htm
+2026-05-07 01:57:19 - INFO - did not download politifact2028.html because url is a youtube video link
+2026-05-07 01:57:45 - ERROR - failed to download politifact3281.html as internet archive api did not return JSON
+2026-05-07 01:57:55 - INFO - did not download politifact6657.html as it already exists locally
+2026-05-07 01:57:56 - INFO - successfully downloaded politifact7259.html for https://web.archive.org/web/20130116024005/http://www.pbs.org/newshour/bb/social_issues/jan-june13/keene_01-15.html
+2026-05-07 01:58:01 - ERROR - failed to download politifact3632.html as internet archive api did not return JSON
+2026-05-07 01:58:06 - ERROR - failed to download politifact239.html as internet archive api did not return JSON
+2026-05-07 01:58:07 - INFO - successfully downloaded politifact954.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-05-07 01:58:07 - INFO - did not download politifact554.html as it already exists locally
+2026-05-07 01:58:12 - ERROR - failed to download politifact13136.html as internet archive api did not return JSON
+2026-05-07 01:58:23 - INFO - did not download politifact12418.html as it already exists locally
+2026-05-07 01:58:32 - INFO - successfully downloaded politifact95.html for http://web.archive.org/web/20080310030205/http://findarticles.com:80/p/articles/mi_qn4155/is_20031113/ai_n12522821
+2026-05-07 01:58:32 - INFO - did not download politifact4028.html as it already exists locally
+2026-05-07 01:58:33 - INFO - successfully downloaded politifact104.html for https://web.archive.org/web/20061114035029/http://mccain.senate.gov/press_office/view_article.cfm?id=34
+2026-05-07 01:58:38 - ERROR - failed to download politifact100.html as internet archive api did not return JSON
+2026-05-07 01:58:43 - ERROR - failed to download politifact10945.html as internet archive api did not return JSON
+2026-05-07 01:58:43 - INFO - did not download politifact486.html because url is a youtube video link
+2026-05-07 01:58:43 - INFO - did not download politifact246.html as it already exists locally
+2026-05-07 01:58:48 - ERROR - failed to download politifact1714.html as internet archive api did not return JSON
+2026-05-07 01:58:48 - INFO - did not download politifact2734.html because url is a youtube video link
+2026-05-07 01:58:54 - ERROR - failed to download politifact7872.html as internet archive api did not return JSON
+2026-05-07 01:59:04 - INFO - successfully downloaded politifact462.html for https://web.archive.org/web/20080212000046/http://transcripts.cnn.com:80/TRANSCRIPTS/0802/05/ltm.03.html
+2026-05-07 01:59:04 - INFO - did not download politifact14225.html as it already exists locally
+2026-05-07 01:59:10 - ERROR - failed to download politifact535.html as internet archive api did not return JSON
+2026-05-07 01:59:10 - INFO - successfully downloaded politifact655.html for https://web.archive.org/web/20081022203056/http://www.plannedparenthoodaction.org/campaigns/john-mccain-his-own-words-135.htm
+2026-05-07 01:59:11 - INFO - successfully downloaded politifact809.html for https://web.archive.org/web/20081016082039/http://debates.org/pages/trans2008d.html
+2026-05-07 01:59:12 - INFO - successfully downloaded politifact1052.html for https://web.archive.org/web/20090612021235/http://www.talkingpointsmemo.com:80/photofeatures/2009/06/more-czars-than-the-romanovs.php?img=1
+2026-05-07 01:59:12 - INFO - successfully downloaded politifact1435.html for https://web.archive.org/web/20081029143250/http://www.taxpolicycenter.org/numbers/displayatab.cfm?Docid=2007
+2026-05-07 01:59:12 - INFO - did not download politifact787.html as it already exists locally
+2026-05-07 01:59:13 - INFO - successfully downloaded politifact2964.html for https://web.archive.org/web/20101217214909/http://www2.tbo.com:80/content/2010/dec/13/131756/news-channel-8-anchor-keith-cate-interviews-obam1/news-politics/
+2026-05-07 01:59:34 - INFO - successfully downloaded politifact599.html for https://web.archive.org/web/20071101044550/http://obama.senate.gov/press/071018-obama_demands_i/
+2026-05-07 01:59:34 - INFO - successfully downloaded politifact681.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-05-07 01:59:34 - INFO - did not download politifact4130.html as it already exists locally
+2026-05-07 01:59:55 - INFO - did not download politifact285.html as it already exists locally
+2026-05-07 01:59:55 - INFO - did not download politifact9033.html because url is a youtube video link
+2026-05-07 01:59:55 - INFO - did not download politifact959.html as it already exists locally
+2026-05-07 01:59:55 - INFO - did not download politifact8989.html as it already exists locally
+2026-05-07 01:59:55 - INFO - successfully downloaded politifact445.html for https://web.archive.org/web/20070513055236/http://www.opensecrets.org/pres08/select.asp?Ind=K02
+2026-05-07 01:59:55 - INFO - did not download politifact211.html as it already exists locally
+2026-05-07 01:59:56 - INFO - successfully downloaded politifact516.html for https://web.archive.org/web/20080610072007/http://www.newschannel5.com:80/Global/story.asp?S=8414824
+2026-05-07 01:59:56 - INFO - did not download politifact1315.html as it already exists locally
+2026-05-07 01:59:56 - INFO - did not download politifact11115.html as it already exists locally
+2026-05-07 01:59:56 - INFO - did not download politifact8085.html as it already exists locally
+2026-05-07 01:59:57 - INFO - successfully downloaded politifact4181.html for https://web.archive.org/web/20090513070231/http://www.whitehouse.gov/omb/budget/Historicals/
+2026-05-07 01:59:57 - INFO - did not download politifact3192.html because url is a youtube video link
+2026-05-07 02:00:02 - ERROR - failed to download politifact7923.html as internet archive api did not return JSON
+2026-05-07 02:00:13 - INFO - successfully downloaded politifact374.html for https://web.archive.org/web/20080226201453/http://ap.google.com:80/article/ALeqM5isOFwdbq0tsqatW6vJpkDRTI1gMgD8V0T1JO0
+2026-05-07 02:00:18 - ERROR - failed to download politifact11577.html as internet archive api did not return JSON
+2026-05-07 02:00:18 - INFO - did not download politifact2816.html as it already exists locally
+2026-05-07 02:00:19 - INFO - successfully downloaded politifact1255.html for https://web.archive.org/web/20091016143946/http://www.msnbc.msn.com:80/id/33253216/ns/meet_the_press/page/3/
+2026-05-07 02:00:19 - INFO - did not download politifact6831.html as it already exists locally
+2026-05-07 02:00:19 - INFO - did not download politifact4850.html because url is a youtube video link
+2026-05-07 02:00:24 - ERROR - failed to download politifact7595.html as internet archive api did not return JSON
+2026-05-07 02:00:29 - ERROR - failed to download politifact4069.html as internet archive api did not return JSON
+2026-05-07 02:00:41 - INFO - successfully downloaded politifact339.html for https://web.archive.org/web/20080213201909/http://facts.hillaryhub.com/archive/?id=4497
+2026-05-07 02:00:51 - INFO - did not download politifact642.html as it already exists locally
+2026-05-07 02:00:52 - INFO - successfully downloaded politifact1251.html for https://web.archive.org/web/20090924105940/http://www.rollcall.com:80/features/Health-Care_Policy-Briefing/health_care/38655-1.html
+2026-05-07 02:00:58 - ERROR - failed to download politifact10731.html as internet archive api did not return JSON
+2026-05-07 02:01:13 - ERROR - failed to download politifact12770.html as internet archive api did not return JSON
+2026-05-07 02:03:23 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531c7520>: Failed to establish a new connection: [Errno 110] Connection timed out')': /web/20091014151848/http://www.pbs.org:80/newshour/bb/health/july-dec09/insurance_10-12.html
+2026-05-07 02:03:23 - INFO - successfully downloaded politifact1256.html for https://web.archive.org/web/20091014151848/http://www.pbs.org:80/newshour/bb/health/july-dec09/insurance_10-12.html
+2026-05-07 02:03:53 - INFO - did not download politifact10185.html as it already exists locally
+2026-05-07 02:03:53 - INFO - did not download politifact673.html as it already exists locally
+2026-05-07 02:04:04 - INFO - successfully downloaded politifact1500.html for https://web.archive.org/web/20100215141959/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=170154
+2026-05-07 02:04:54 - INFO - did not download politifact12751.html as it already exists locally
+2026-05-07 02:05:12 - INFO - successfully downloaded politifact8172.html for http://web.archive.org/web/20161020230920/https://www.whitehouse.gov/the-press-office/2013/08/06/remarks-president-responsible-homeownership
+2026-05-07 02:05:38 - ERROR - failed to download politifact8621.html as internet archive api did not return JSON
+2026-05-07 02:05:53 - ERROR - failed to download politifact11931.html as internet archive api did not return JSON
+2026-05-07 02:05:53 - INFO - did not download politifact975.html as it already exists locally
+2026-05-07 02:06:04 - INFO - successfully downloaded politifact181.html for https://web.archive.org/web/20011107072419/http://www.teamster.org:80/01news/hn_010731_3.htm
+2026-05-07 02:06:05 - INFO - successfully downloaded politifact502.html for https://web.archive.org/web/20070926214934/http://obama.senate.gov/press/070918-senate_passes_o_2/
+2026-05-07 02:06:05 - INFO - did not download politifact958.html as it already exists locally
+2026-05-07 02:06:06 - INFO - successfully downloaded politifact581.html for https://web.archive.org/web/20080717022107/http://www.johnmccain.com/Informing/News/PressReleases/Read.aspx?Guid=e92e0317-02b3-4345-82f9-9eac8bb0a50d
+2026-05-07 02:06:07 - INFO - successfully downloaded politifact1040.html for https://web.archive.org/web/20090604101517/http://www.whitehouse.gov/the_press_office/Background-Briefing-on-GM-Restructuring-May-31-2009/
+2026-05-07 02:06:12 - ERROR - failed to download politifact3539.html as internet archive api did not return JSON
+2026-05-07 02:06:12 - INFO - successfully downloaded politifact8537.html for http://web.archive.org/web/20060228220724/http:/energycommerce.house.gov/108/News/02152006_1778.htm
+2026-05-07 02:06:13 - INFO - successfully downloaded politifact343.html for https://web.archive.org/web/20080212013357/http://blog.aflcio.org:80/2008/02/08/writers-may-have-pact-huckabee-crosses-picket-lineagain/
+2026-05-07 02:06:13 - INFO - did not download politifact439.html as it already exists locally
+2026-05-07 02:06:14 - INFO - successfully downloaded politifact1051.html for https://web.archive.org/web/20090617192953/http://www.gop.gov/wtas/09/06/10/congressman-pence-discusses-house-republican
+2026-05-07 02:06:15 - INFO - successfully downloaded politifact1361.html for https://web.archive.org/web/20100330081658/http://switchboard.nrdc.org:80/blogs/bfinamore/chinas_carbon_intensity_target.html
+2026-05-07 02:06:15 - INFO - did not download politifact6907.html as it already exists locally
+2026-05-07 02:06:31 - ERROR - failed to download politifact679.html as internet archive api did not return JSON
+2026-05-07 02:06:41 - INFO - did not download politifact12104.html as it already exists locally
+2026-05-07 02:06:42 - INFO - successfully downloaded politifact7182.html for https://web.archive.org/web/20121221015559/http://west.congressnewsletter.net:80/common/mailings/index.cfm?id=190
+2026-05-07 02:06:42 - INFO - successfully downloaded politifact3320.html for https://web.archive.org/web/20100405072544/http://demint.senate.gov:80/public/index.cfm?p=JimsBlog
+2026-05-07 02:06:47 - ERROR - failed to download politifact8470.html as internet archive api did not return JSON
+2026-05-07 02:06:47 - INFO - did not download politifact3898.html as it already exists locally
+2026-05-07 02:06:53 - ERROR - failed to download politifact2241.html as internet archive api did not return JSON
+2026-05-07 02:06:53 - INFO - did not download politifact15133.html as it already exists locally
+2026-05-07 02:06:53 - INFO - successfully downloaded politifact600.html for https://web.archive.org/web/20010609190032/http://www.fuelgaugereport.com:80/index.asp
+2026-05-07 02:06:58 - ERROR - failed to download politifact1118.html as internet archive api did not return JSON
+2026-05-07 02:07:04 - ERROR - failed to download politifact12294.html as internet archive api did not return JSON
+2026-05-07 02:07:04 - INFO - successfully downloaded politifact1068.html for https://web.archive.org/web/20090624230658/http://www.whitehouse.gov/blog/Protecting-Our-Children-from-the-Dangers-of-Smoking/
+2026-05-07 02:07:04 - INFO - did not download politifact304.html as it already exists locally
+2026-05-07 02:07:07 - INFO - successfully downloaded politifact2281.html for https://web.archive.org/web/20100827015529/http://news.yahoo.com:80/s/ap/20100825/ap_on_re_us/us_nyc_mosque
+2026-05-07 02:07:12 - ERROR - failed to download politifact1560.html as internet archive api did not return JSON
+2026-05-07 02:07:22 - INFO - did not download politifact263.html as it already exists locally
+2026-05-07 02:07:43 - INFO - successfully downloaded politifact943.html for https://web.archive.org/web/20090224213953/http://www.mcclatchydc.com:80/251/story/62614.html
+2026-05-07 02:07:54 - INFO - successfully downloaded politifact574.html for https://web.archive.org/web/20081101133832/http://www.campaignmoney.org/mccainairbus
+2026-05-07 02:07:55 - INFO - successfully downloaded politifact2836.html for https://web.archive.org/web/20100716185746/http://www.tsa.gov:80/approach/tech/ait/faqs.shtm
+2026-05-07 02:08:00 - ERROR - failed to download politifact8557.html as internet archive api did not return JSON
+2026-05-07 02:08:01 - INFO - successfully downloaded politifact12556.html for https://web.archive.org/web/20160709050756/https://www.donaldjtrump.com/press-releases/donald-j.-trump-on-the-stakes-of-the-election
+2026-05-07 02:08:02 - INFO - successfully downloaded politifact426.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-05-07 02:08:11 - INFO - successfully downloaded politifact997.html for http://web.archive.org/web/20090805101052/http://www.defenselink.mil/pubs/pdfs/Measuring_Stability_and_Security_in_Iraq_March_2009.pdf
+2026-05-07 02:08:13 - INFO - successfully downloaded politifact84.html for https://web.archive.org/web/20070911181319/http://pol.moveon.org/petraeus.html
+2026-05-07 02:08:13 - INFO - successfully downloaded politifact421.html for https://web.archive.org/web/20080506120114/http://pol.moveon.org:80/mccain10/email.html?
+2026-05-07 02:08:18 - ERROR - failed to download politifact368.html as internet archive api did not return JSON
+2026-05-07 02:08:18 - INFO - did not download politifact201.html as it already exists locally
+2026-05-07 02:08:18 - INFO - did not download politifact7665.html as it already exists locally
+2026-05-07 02:08:18 - INFO - did not download politifact2594.html because url is a youtube video link
+2026-05-07 02:08:18 - INFO - did not download politifact10903.html as it already exists locally
+2026-05-07 02:08:18 - INFO - did not download politifact10413.html as it already exists locally
+2026-05-07 02:08:19 - INFO - successfully downloaded politifact1424.html for https://web.archive.org/web/20100125035945/http://republicanleader.house.gov:80/News/DocumentSingle.aspx?DocumentID=167478
+2026-05-07 02:08:19 - INFO - did not download politifact4858.html as it already exists locally
+2026-05-07 02:08:24 - ERROR - failed to download politifact114.html as internet archive api did not return JSON
+2026-05-07 02:08:24 - INFO - did not download politifact2450.html because url is a youtube video link
+2026-05-07 02:08:29 - ERROR - failed to download politifact340.html as internet archive api did not return JSON
+2026-05-07 02:08:39 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531e00d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-05-07 02:08:40 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531e0f40>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-05-07 02:08:42 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531ed100>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003
+2026-05-07 02:08:42 - ERROR - error requesting politifact186.html for url https://web.archive.org/web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003 due to connection error handling
+2026-05-07 02:08:42 - ERROR - error requesting politifact186.html for url https://web.archive.org/web/20070706232742/http://vote-smart.org/issue_rating_category.php?can_id=22003 as response is an empty string
+2026-05-07 02:08:48 - ERROR - failed to download politifact751.html as internet archive api did not return JSON
+2026-05-07 02:08:48 - INFO - did not download politifact288.html because url is a youtube video link
+2026-05-07 02:08:53 - ERROR - failed to download politifact99.html as internet archive api did not return JSON
+2026-05-07 02:08:53 - INFO - did not download politifact1899.html as it already exists locally
+2026-05-07 02:08:53 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531e0ca0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm
+2026-05-07 02:08:54 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531ed7f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm
+2026-05-07 02:08:56 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531ed730>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm
+2026-05-07 02:08:56 - ERROR - error requesting politifact700.html for url https://web.archive.org/web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm due to connection error handling
+2026-05-07 02:08:56 - ERROR - error requesting politifact700.html for url https://web.archive.org/web/20080906104758/http://www.johnmccain.com:80/informing/news/Speeches/ef046a10-706a-4dd5-bd01-b93b36b054bc.htm as response is an empty string
+2026-05-07 02:08:56 - INFO - did not download politifact12120.html as it already exists locally
+2026-05-07 02:08:56 - WARNING - Retrying (Retry(total=9, connect=2, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531e8370>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html
+2026-05-07 02:08:57 - WARNING - Retrying (Retry(total=8, connect=1, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531e8580>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html
+2026-05-07 02:08:59 - WARNING - Retrying (Retry(total=7, connect=0, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f13531e8760>: Failed to establish a new connection: [Errno 111] Connection refused')': /web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html
+2026-05-07 02:08:59 - ERROR - error requesting politifact1140.html for url https://web.archive.org/web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html due to connection error handling
+2026-05-07 02:08:59 - ERROR - error requesting politifact1140.html for url https://web.archive.org/web/20090816181927/http://www.pbs.org:80/newshour/bb/politics/july-dec09/shieldsbrooks_08-14.html as response is an empty string
+2026-05-07 02:08:59 - INFO - did not download politifact13052.html as it already exists locally
+2026-05-07 02:08:59 - INFO - did not download politifact4879.html as it already exists locally
+2026-05-07 02:09:22 - INFO - did not download politifact13395.html as it already exists locally
+2026-05-07 02:09:27 - ERROR - failed to download politifact6939.html as internet archive api did not return JSON
+2026-05-07 02:09:33 - ERROR - failed to download politifact12486.html as internet archive api did not return JSON
+2026-05-07 02:09:53 - INFO - did not download politifact14174.html as it already exists locally
+2026-05-07 02:09:54 - INFO - successfully downloaded politifact13855.html for https://web.archive.org/web/20170313220530/https://www.whitehouse.gov/the-press-office/2017/03/13/remarks-president-trump-listening-session-healthcare
+2026-05-07 02:09:54 - INFO - did not download politifact6537.html because url is a youtube video link
+2026-05-07 02:10:03 - INFO - did not download politifact6519.html because url is a youtube video link
+2026-05-07 02:10:04 - INFO - successfully downloaded politifact74.html for https://web.archive.org/web/20070915144031/http://www.kff.org:80/insurance/7672/
+2026-05-07 02:10:10 - ERROR - failed to download politifact3468.html as internet archive api did not return JSON
+2026-05-07 02:10:10 - INFO - did not download politifact13305.html as it already exists locally
+2026-05-07 02:10:29 - INFO - did not download politifact2131.html as it already exists locally
+2026-05-07 02:10:38 - INFO - did not download politifact11314.html as it already exists locally
+2026-05-07 02:10:39 - WARNING - Retrying (Retry(total=9, connect=3, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /web/20080131000131/http://www.barackobama.com/2008/01/30/remarks_of_senator_barack_obam_45.php
+2026-05-07 02:10:39 - INFO - successfully downloaded politifact323.html for https://web.archive.org/web/20080131000131/http://www.barackobama.com/2008/01/30/remarks_of_senator_barack_obam_45.php
+2026-05-07 02:11:00 - INFO - successfully downloaded politifact35.html for https://web.archive.org/web/20070825014950/http://www.mcclatchydc.com:80/iraq/story/18861.html
+2026-05-07 02:11:01 - INFO - successfully downloaded politifact3584.html for https://web.archive.org/web/20110416110045/http://projects.washingtonpost.com:80/obama-speeches/speech/622
+2026-05-07 02:11:01 - INFO - did not download politifact939.html as it already exists locally
+2026-05-07 02:11:01 - INFO - did not download politifact1924.html as it already exists locally
+2026-05-07 02:11:01 - INFO - did not download politifact1185.html because url is a youtube video link
+2026-05-07 02:11:01 - INFO - successfully downloaded politifact1053.html for https://web.archive.org/web/20050507232712/http://www.ssa.gov:80/OACT/babynames/namesbystate.html
+2026-05-07 02:11:02 - INFO - successfully downloaded politifact208.html for https://web.archive.org/web/20070829110221/http://hitwise.com/political-data-center/key-candidates.php
+2026-05-07 02:11:07 - ERROR - failed to download politifact12587.html as internet archive api did not return JSON
+2026-05-07 02:11:12 - ERROR - failed to download politifact8987.html as internet archive api did not return JSON
+2026-05-07 02:11:12 - INFO - did not download politifact8805.html as it already exists locally
+2026-05-07 02:11:12 - INFO - did not download politifact9151.html as it already exists locally
+2026-05-07 02:11:17 - ERROR - failed to download politifact10348.html as internet archive api did not return JSON
+2026-05-07 02:11:17 - INFO - did not download politifact13352.html as it already exists locally
+2026-05-07 02:11:17 - INFO - did not download politifact408.html as it already exists locally
+2026-05-07 02:11:17 - INFO - did not download politifact1014.html as it already exists locally
+2026-05-07 02:11:28 - INFO - did not download politifact14114.html as it already exists locally
+2026-05-07 02:11:33 - ERROR - failed to download politifact10371.html as internet archive api did not return JSON
+2026-05-07 02:11:38 - ERROR - failed to download politifact1063.html as internet archive api did not return JSON
+2026-05-07 02:11:39 - INFO - successfully downloaded politifact2208.html for https://web.archive.org/web/20090503050002/http://www.google.com/url?sa=t
+2026-05-07 02:12:00 - INFO - successfully downloaded politifact7258.html for https://web.archive.org/web/20121222121141/http://www.pbs.org/newshour/bb/politics/july-dec12/shieldsgerson_12-21.html
+2026-05-07 02:12:11 - INFO - successfully downloaded politifact669.html for https://web.archive.org/web/20080817004723/http://www.cqpolitics.com:80/cq-assets/cqmultimedia/flash/votestudy/index.html
+2026-05-07 02:12:11 - INFO - did not download politifact7540.html because url is a youtube video link
+2026-05-07 02:12:11 - INFO - did not download politifact11399.html because url is a youtube video link
+2026-05-07 02:12:21 - INFO - did not download politifact13682.html as it already exists locally
+2026-05-07 02:15:02 - INFO - did not download politifact509.html because url is a youtube video link
+2026-05-07 02:15:02 - INFO - did not download politifact3455.html as it already exists locally
+2026-05-07 02:15:13 - INFO - did not download politifact429.html as it already exists locally
+2026-05-07 02:15:13 - INFO - successfully downloaded politifact214.html for https://web.archive.org/web/20071206011805/http://www.hillaryclinton.com/news/release/view/?id=4479
+2026-05-07 02:15:13 - INFO - did not download politifact4372.html as it already exists locally
+2026-05-07 02:15:18 - ERROR - failed to download politifact12070.html as internet archive api did not return JSON
+2026-05-07 02:15:18 - INFO - did not download politifact8995.html as it already exists locally
+2026-05-07 02:15:18 - INFO - did not download politifact1678.html as it already exists locally
+2026-05-07 02:15:19 - INFO - successfully downloaded politifact2258.html for https://web.archive.org/web/20100821215324/http://republicans.foreignaffairs.house.gov:80/press_display.asp?id=1583
+2026-05-07 02:15:19 - INFO - did not download politifact539.html as it already exists locally
+2026-05-07 02:15:24 - ERROR - failed to download politifact5659.html as internet archive api did not return JSON
+2026-05-07 02:15:36 - INFO - successfully downloaded politifact1026.html for https://web.archive.org/web/20090514023215/http://republicanleader.house.gov/News/DocumentSingle.aspx?DocumentID=125333
+2026-05-07 02:15:36 - INFO - did not download politifact10877.html as it already exists locally
+2026-05-07 02:15:36 - INFO - did not download politifact200.html as it already exists locally
+2026-05-07 02:15:37 - INFO - successfully downloaded politifact724.html for https://web.archive.org/web/20050615041207/http://www.irs.gov:80/taxstats/indtaxstats/article/0,,id=134951,00.html
+2026-05-07 02:15:37 - INFO - did not download politifact8259.html as it already exists locally
+2026-05-07 02:15:39 - INFO - successfully downloaded politifact7390.html for https://web.archive.org/web/20130209000637/http://www.whitehouse.gov/state-of-the-union-2013
+2026-05-07 02:15:39 - INFO - did not download politifact7669.html as it already exists locally
+2026-05-07 02:15:44 - ERROR - failed to download politifact2048.html as internet archive api did not return JSON
+2026-05-07 02:15:44 - INFO - did not download politifact695.html as it already exists locally
+2026-05-07 02:15:45 - INFO - successfully downloaded politifact691.html for https://web.archive.org/web/20080911193042/http://www.adn.com:80/sarah-palin/background/story/203814.html
+2026-05-07 02:15:51 - INFO - successfully downloaded politifact1779.html for https://web.archive.org/web/20100513074658/http://video.foxnews.com:80/v/4186199/barasso-ready-to-question-kagan
+2026-05-07 02:15:56 - ERROR - failed to download politifact8611.html as internet archive api did not return JSON
+2026-05-07 02:16:06 - INFO - did not download politifact5632.html because url is a youtube video link
+2026-05-07 02:16:06 - INFO - did not download politifact13477.html as it already exists locally
+2026-05-07 02:16:07 - INFO - successfully downloaded politifact772.html for https://web.archive.org/web/20081006202026/http://abcnews.go.com:80/Politics/Decision2008/story?id=3498294,
+2026-05-07 02:16:07 - INFO - did not download politifact348.html as it already exists locally
+2026-05-07 02:16:13 - ERROR - failed to download politifact8371.html as internet archive api did not return JSON
+2026-05-07 02:16:14 - INFO - successfully downloaded politifact128.html for https://web.archive.org/web/20061206054712/http://www.irs.gov:80/formspubs/article/0,,id=164272,00.html
+2026-05-07 02:16:14 - INFO - did not download politifact320.html because url is a youtube video link
+2026-05-07 02:16:19 - ERROR - failed to download politifact627.html as internet archive api did not return JSON
+2026-05-07 02:16:19 - INFO - did not download politifact11711.html as it already exists locally
+2026-05-07 02:16:24 - ERROR - failed to download politifact1866.html as internet archive api did not return JSON
+2026-05-07 02:16:25 - INFO - successfully downloaded politifact1442.html for https://web.archive.org/web/20100105223912/http://republicanleader.house.gov/blog/?m=201001
+2026-05-07 02:16:25 - INFO - did not download politifact9802.html as it already exists locally
+2026-05-07 02:16:30 - ERROR - failed to download politifact5690.html as internet archive api did not return JSON
+2026-05-07 02:16:51 - INFO - did not download politifact5237.html as it already exists locally
+2026-05-07 02:16:51 - INFO - successfully downloaded politifact769.html for https://web.archive.org/web/20080817004723/http://www.cqpolitics.com:80/cq-assets/cqmultimedia/flash/votestudy/index.html
+2026-05-07 02:16:56 - ERROR - failed to download politifact315.html as internet archive api did not return JSON
+2026-05-07 02:17:12 - ERROR - failed to download politifact3935.html as internet archive api did not return JSON
+2026-05-07 02:17:12 - INFO - did not download politifact736.html as it already exists locally
+2026-05-07 02:17:17 - ERROR - failed to download politifact12773.html as internet archive api did not return JSON
+2026-05-07 02:17:17 - INFO - did not download politifact608.html because url is a youtube video link
+2026-05-07 02:17:17 - INFO - did not download politifact7668.html as it already exists locally
+2026-05-07 02:17:17 - INFO - did not download politifact1892.html as it already exists locally
+2026-05-07 02:17:17 - INFO - successfully downloaded politifact2013.html for https://web.archive.org/web/20090628092209/http://www.azdps.gov:80/About/Reports/Crime_In_Arizona/
+2026-05-07 02:17:28 - INFO - successfully downloaded politifact31.html for https://web.archive.org/web/20051210114606/http://www.allianceforschoolchoice.org:80/school_choice_history.aspx
+2026-05-07 02:17:28 - INFO - did not download politifact287.html as it already exists locally
+2026-05-07 02:17:34 - ERROR - failed to download politifact230.html as internet archive api did not return JSON
+2026-05-07 02:17:34 - INFO - did not download politifact12748.html as it already exists locally
+2026-05-07 02:17:34 - INFO - did not download politifact207.html as it already exists locally
+2026-05-07 02:17:34 - INFO - did not download politifact677.html as it already exists locally
+2026-05-07 02:17:34 - INFO - did not download politifact3115.html as it already exists locally
+2026-05-07 02:17:34 - ERROR - failed to download politifact87.html as internet archive api did not return JSON
+2026-05-07 02:17:34 - INFO - did not download politifact13226.html as it already exists locally
+2026-05-07 02:17:45 - INFO - successfully downloaded politifact671.html for https://web.archive.org/web/20080828144739/http://www.demconvention.com/joe-biden/
+2026-05-07 02:17:45 - INFO - did not download politifact968.html as it already exists locally
+2026-05-07 02:18:15 - INFO - did not download politifact596.html because url is a youtube video link
+2026-05-07 02:18:15 - INFO - did not download politifact11208.html as it already exists locally
+2026-05-07 02:18:15 - INFO - successfully downloaded politifact3228.html for https://web.archive.org/web/20050322064340/http://www6.lexisnexis.com:80/publisher/EndUser?Action=UserDisplayFullDocument
+2026-05-07 02:18:25 - INFO - did not download politifact4926.html as it already exists locally
+2026-05-07 02:18:25 - INFO - did not download politifact498.html because url is a youtube video link
+2026-05-07 02:18:49 - INFO - successfully downloaded politifact1047.html for https://web.archive.org/web/20090612062614/http://www.ustreas.gov:80/press/releases/tg162.htm
+2026-05-07 02:18:50 - INFO - successfully downloaded politifact228.html for https://web.archive.org/web/20071020185442/http://www.taxpolicycenter.org/numbers/displayatab.cfm?DocID=1390
+2026-05-07 02:18:50 - INFO - did not download politifact495.html as it already exists locally
+2026-05-07 02:18:51 - INFO - successfully downloaded politifact1038.html for https://web.archive.org/web/20001109011000/http://www.nrdc.org:80/nuclear/nudb/datab15.asp
+2026-05-07 02:18:52 - INFO - successfully downloaded politifact1465.html for https://web.archive.org/web/20100201043706/http://www.whitehouse.gov:80/the-press-office/remarks-president-gop-house-issues-conference
+2026-05-07 02:18:53 - INFO - successfully downloaded politifact396.html for https://web.archive.org/web/20060930180024/http://clinton.senate.gov/news/statements/details.cfm?id=233783
+2026-05-07 02:18:53 - INFO - did not download politifact279.html because url is a youtube video link
+2026-05-07 02:19:08 - ERROR - failed to download politifact11777.html as internet archive api did not return JSON
+2026-05-07 02:19:14 - ERROR - failed to download politifact11021.html as internet archive api did not return JSON
+2026-05-07 02:19:19 - ERROR - failed to download politifact3335.html as internet archive api did not return JSON
+2026-05-07 02:19:19 - INFO - did not download politifact341.html because url is a youtube video link
+2026-05-07 02:19:19 - INFO - did not download politifact11072.html as it already exists locally
+2026-05-07 02:19:19 - INFO - did not download politifact3734.html as it already exists locally
+2026-05-07 02:19:20 - INFO - successfully downloaded politifact336.html for https://web.archive.org/web/20080206222702/http://www.mittromney.com/News/Press-Releases/Kerry_McCain
+2026-05-07 02:19:21 - INFO - successfully downloaded politifact785.html for https://web.archive.org/web/20070613045339/http://obama.senate.gov/press/070322-obama_urges_ber/
+2026-05-07 02:19:21 - INFO - did not download politifact14511.html as it already exists locally
+2026-05-07 02:19:31 - INFO - did not download politifact8221.html as it already exists locally
+2026-05-07 02:19:52 - INFO - successfully downloaded politifact528.html for https://web.archive.org/web/20080514182038/http://johnmccain.com/climatechange/
+2026-05-07 02:19:57 - ERROR - failed to download politifact1770.html as internet archive api did not return JSON
+2026-05-07 02:20:02 - ERROR - failed to download politifact720.html as internet archive api did not return JSON
+2026-05-07 02:20:02 - INFO - did not download politifact3581.html as it already exists locally
+2026-05-07 02:20:02 - INFO - did not download politifact5447.html because url is a youtube video link
+2026-05-07 02:20:08 - ERROR - failed to download politifact1067.html as internet archive api did not return JSON
+2026-05-07 02:20:08 - INFO - did not download politifact6277.html because url is a youtube video link
+2026-05-07 02:20:13 - ERROR - failed to download politifact1314.html as internet archive api did not return JSON
+2026-05-07 02:20:13 - INFO - did not download politifact12755.html as it already exists locally
+2026-05-07 02:20:13 - INFO - did not download politifact9107.html as it already exists locally
+2026-05-07 02:20:13 - INFO - successfully downloaded politifact527.html for https://web.archive.org/web/20090113114854/http://thepage.time.com:80/obamas-full-remarks-at-chicago-credit-cards-event/
+2026-05-07 02:20:13 - INFO - did not download politifact6646.html as it already exists locally
+2026-05-07 02:20:13 - INFO - did not download politifact773.html as it already exists locally
+2026-05-07 02:20:13 - INFO - did not download politifact1575.html as it already exists locally
+2026-05-07 02:20:23 - INFO - did not download politifact1180.html as it already exists locally
+2026-05-07 02:20:24 - INFO - successfully downloaded politifact206.html for https://web.archive.org/web/20071020151813/http://capitaleye.org:80/inside.asp?ID=311
+2026-05-07 02:20:34 - INFO - did not download politifact409.html as it already exists locally
+2026-05-07 02:20:49 - ERROR - failed to download politifact2592.html as internet archive api did not return JSON
+2026-05-07 02:20:49 - INFO - did not download politifact1614.html as it already exists locally
+2026-05-07 02:20:55 - ERROR - failed to download politifact6932.html as internet archive api did not return JSON
+2026-05-07 02:20:56 - INFO - successfully downloaded politifact6998.html for https://web.archive.org/web/20121023081044/http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/10/22/the-full-transcript-of-the-third-presidential-debate/
+2026-05-07 02:21:26 - INFO - did not download politifact2393.html because url is a youtube video link
+2026-05-07 02:21:42 - ERROR - failed to download politifact13283.html as internet archive api did not return JSON
+2026-05-07 02:21:42 - INFO - did not download politifact310.html as it already exists locally
+2026-05-07 02:21:47 - ERROR - failed to download politifact12017.html as internet archive api did not return JSON
+2026-05-07 02:21:47 - INFO - successfully downloaded politifact2758.html for https://web.archive.org/web/20101103082821/http://gopleader.gov/News/DocumentSingle.aspx?DocumentID=213442
+2026-05-07 02:21:47 - INFO - did not download politifact1013.html as it already exists locally
+2026-05-07 02:21:47 - INFO - did not download politifact2318.html as it already exists locally
+2026-05-07 02:21:47 - INFO - did not download politifact377.html as it already exists locally
+2026-05-07 02:21:49 - INFO - successfully downloaded politifact351.html for https://web.archive.org/web/20080126233643/http://www.chicagotribune.com:80/news/local/chi-070403obama-ballot,0,1843097.story?page=1
+2026-05-07 02:21:54 - ERROR - failed to download politifact1419.html as internet archive api did not return JSON
+2026-05-07 02:21:55 - INFO - successfully downloaded politifact9438.html for https://web.archive.org/web/20130314224614/http://www.washingtonpost.com/blogs/wonkblog/wp/2013/03/08/everything-you-need-to-know-about-the-drone-debate-in-one-faq/
+2026-05-07 02:21:55 - INFO - did not download politifact15645.html because url is a youtube video link
+2026-05-07 02:21:55 - INFO - did not download politifact319.html because url is a youtube video link
+2026-05-07 02:22:00 - ERROR - failed to download politifact3221.html as internet archive api did not return JSON
+2026-05-07 02:22:00 - INFO - did not download politifact1337.html as it already exists locally
+2026-05-07 02:22:01 - INFO - successfully downloaded politifact834.html for https://web.archive.org/web/20081202093502/http://afp.google.com:80/article/ALeqM5i2cTbnZTDVHPcifBpEzmkfqOOtlg
+2026-05-07 02:22:06 - ERROR - failed to download politifact6173.html as internet archive api did not return JSON
+2026-05-07 02:22:06 - INFO - did not download politifact440.html as it already exists locally
+2026-05-07 02:22:12 - ERROR - failed to download politifact1701.html as internet archive api did not return JSON
+2026-05-07 02:22:12 - INFO - did not download politifact5439.html because url is a youtube video link
+2026-05-07 02:22:17 - ERROR - failed to download politifact6473.html as internet archive api did not return JSON
+2026-05-07 02:22:17 - INFO - did not download politifact10787.html as it already exists locally
+2026-05-07 02:22:17 - INFO - did not download politifact5011.html because url is a youtube video link
+2026-05-07 02:22:17 - INFO - did not download politifact8629.html as it already exists locally
+2026-05-07 02:22:17 - INFO - did not download politifact10533.html as it already exists locally
+2026-05-07 02:22:17 - INFO - did not download politifact6556.html as it already exists locally
+2026-05-07 02:22:28 - INFO - successfully downloaded politifact6146.html for https://web.archive.org/web/20120619023435/http://www.foxnews.com/on-air/fox-news-sunday/2012/06/17/david-plouffe-sen-joe-lieberman-and-gen-michael-hayden-talk-national-security-leaks?page=3
+2026-05-07 02:22:33 - ERROR - failed to download politifact370.html as internet archive api did not return JSON
+2026-05-07 02:22:33 - INFO - did not download politifact6234.html as it already exists locally
+2026-05-07 02:22:34 - INFO - successfully downloaded politifact546.html for https://web.archive.org/web/20080619025707/http://www.tampabay.com:80/news/politics/elections/article628630.ece
+2026-05-07 02:22:39 - ERROR - failed to download politifact7376.html as internet archive api did not return JSON
+2026-05-07 02:22:44 - ERROR - failed to download politifact2205.html as internet archive api did not return JSON
+2026-05-07 02:22:55 - INFO - successfully downloaded politifact910.html for https://web.archive.org/web/20090120134739/http://www.pbs.org:80/newshour/bb/social_issues/jan-june09/slaverydc_01-16.html
+2026-05-07 02:22:56 - INFO - successfully downloaded politifact1446.html for https://web.archive.org/web/20090910073834/http://www.whitehouse.gov/the_press_office/Remarks-by-the-President-at-AFL-CIO-Labor-Day-Picnic/
+2026-05-07 02:22:56 - INFO - did not download politifact15175.html as it already exists locally
+2026-05-07 02:22:57 - INFO - successfully downloaded politifact1202.html for https://web.archive.org/web/20090919163055/http://www.whitehouse.gov/the_press_office/Remarks-by-the-First-Lady-on-What-Health-Insurance-Reform-Means-for-Women-and-Families/
+2026-05-07 02:23:02 - ERROR - failed to download politifact2815.html as internet archive api did not return JSON
+2026-05-07 02:23:04 - INFO - successfully downloaded politifact825.html for https://web.archive.org/web/20081030004908/http://www.plannedparenthoodaction.org/campaigns/386.htm
+2026-05-07 02:23:04 - INFO - did not download politifact435.html as it already exists locally
+2026-05-07 02:23:05 - INFO - successfully downloaded politifact582.html for https://web.archive.org/web/20070808173432/http://www.barackobama.com/2007/08/01/remarks_of_senator_obama_the_w_1.php
+2026-05-07 02:23:10 - ERROR - failed to download politifact4177.html as internet archive api did not return JSON
+2026-05-07 02:23:15 - ERROR - failed to download politifact2139.html as internet archive api did not return JSON
+2026-05-07 02:23:15 - INFO - did not download politifact6267.html because url is a youtube video link
+2026-05-07 02:23:25 - INFO - did not download politifact4306.html as it already exists locally
+2026-05-07 02:23:25 - INFO - did not download politifact11416.html as it already exists locally
+2026-05-07 02:23:25 - INFO - did not download politifact13443.html as it already exists locally
+2026-05-07 02:23:37 - INFO - successfully downloaded politifact12721.html for https://web.archive.org/web/20150816005009/http://www.hillaryclinton.com:80/briefing/factsheets/2015/07/13/email-facts/
+2026-05-07 02:23:47 - INFO - did not download politifact6360.html as it already exists locally
+2026-05-07 02:24:13 - ERROR - failed to download politifact4588.html as internet archive api did not return JSON
+2026-05-07 02:24:13 - INFO - successfully downloaded politifact134.html for https://web.archive.org/web/20070625210514/http://clinton.senate.gov/news/statements/details.cfm?id=277627
+2026-05-07 02:24:13 - INFO - did not download politifact11627.html as it already exists locally
+2026-05-07 02:24:13 - INFO - did not download politifact12052.html as it already exists locally
+2026-05-07 02:24:18 - ERROR - failed to download politifact8838.html as internet archive api did not return JSON
+2026-05-07 02:24:19 - INFO - successfully downloaded politifact690.html for https://web.archive.org/web/20081204120104/http://www.haysresearch.com/oc072508.htm
+2026-05-07 02:24:24 - ERROR - failed to download politifact4190.html as internet archive api did not return JSON
+2026-05-07 02:24:29 - ERROR - failed to download politifact4555.html as internet archive api did not return JSON
+2026-05-07 02:24:40 - INFO - did not download politifact8152.html as it already exists locally
+2026-05-07 02:24:45 - ERROR - failed to download politifact1204.html as internet archive api did not return JSON
+2026-05-07 02:24:54 - INFO - did not download politifact13619.html as it already exists locally
+2026-05-07 02:25:06 - INFO - successfully downloaded politifact329.html for https://web.archive.org/web/20080131000131/http://www.barackobama.com/2008/01/30/remarks_of_senator_barack_obam_45.php
+2026-05-07 02:25:06 - INFO - did not download politifact1576.html because url is a youtube video link
+2026-05-07 02:25:06 - INFO - did not download politifact4720.html because url is a youtube video link
+2026-05-07 02:25:07 - INFO - successfully downloaded politifact52.html for https://web.archive.org/web/20071102131244/http://vote-smart.org:80/issue_rating_category.php?can_id=9490
