@@ -19,7 +19,11 @@ class AttentionNeuralNetwork(nn.Module):
                 nn.Sigmoid(),
                 nn.Linear(hidden_size // 2, hidden_size // 4),
                 nn.Sigmoid(),
-                nn.Linear(hidden_size // 4, output_size),
+                nn.Linear(hidden_size // 4, hidden_size // 8),
+                nn.Sigmoid(),
+                nn.Linear(hidden_size // 8, hidden_size // 16),
+                nn.Sigmoid(),
+                nn.Linear(hidden_size // 16, output_size),
         )
         self.dropout = nn.Dropout(dropout)
         self.norm = nn.LayerNorm(embed_dim)
@@ -36,11 +40,16 @@ class AttentionNeuralNetwork(nn.Module):
 
 if __name__ == '__main__':
     #model = NeuralNetwork()
-    embed_dim = 512
-    hidden_size = 256
-    output_size = 8
+    embed_dim = 1024
+    hidden_size = 512
+    output_size = 2
     num_heads = 4
-    sample_input = torch.rand(10, 32, embed_dim)
+    device = torch.accelerator.current_accelerator().type if torch.accelerator.is_available() else 'cpu'
+    #device = 'cpu'
     model = AttentionNeuralNetwork(embed_dim, hidden_size, output_size, num_heads)
+    model.to(device)
+    sample_input = torch.rand(10, 32, embed_dim).to(device)
     output = model(sample_input)
     print(output)
+    #print(device)
+    #print(torch.__version__)
