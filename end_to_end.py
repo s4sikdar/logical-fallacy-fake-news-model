@@ -1,9 +1,11 @@
 import sys
-import torch
-from transformers import DistilBertTokenizer, DistilBertModel, AutoTokenizer, AutoModelForCausalLM
-from tqdm import tqdm
 import logging
 import configparser
+import json
+import pandas as pd
+import torch
+from transformers import BertTokenizer, BertModel, AutoTokenizer, AutoModelForCausalLM
+from tqdm import tqdm
 
 
 
@@ -22,20 +24,24 @@ device = torch.device("mps" if torch.backends.mps.is_available() else ("cuda" if
 
 access_token = config['DEFAULT']['access_token']
 logging.info(f'Gathered access token and using device {device}')
-cache_dir = '/data/huggingface_models/'
-llama_model_name = 'meta-llama/Meta-Llama-3-8B-Instruct'
-model_name = 'distilbert-base-uncased'
-bert_tokenizer = DistilBertTokenizer.from_pretrained(model_name, cache_dir=cache_dir, token=access_token)
-bert_model = DistilBertModel.from_pretrained(model_name, cache_dir=cache_dir, token=access_token, dtype='auto', device_map='auto')
+cache_dir = config['DEFAULT']['docker_cache_dir']
+#cache_dir = config['DEFAULT']['gpu_cache_dir']
+llama_model_name = config['DEFAULT']['docker_llama_name_path']
+model_name = config['DEFAULT']['docker_model_name_path']
+#model_name = config['DEFAULT']['gpu_model_name_path']
+bert_tokenizer = BertTokenizer.from_pretrained(model_name, cache_dir=cache_dir, token=access_token)
+bert_model = BertModel.from_pretrained(model_name, cache_dir=cache_dir, token=access_token, dtype='auto', device_map='auto')
 #device = torch.accelerator.current_accelerator().type if torch.accelerator.is_available() else 'cpu'
 bert_model.to(device)
 logging.info(f'Loaded bert model and bert tokenizer, moved to {device}')
-#llama_tokenizer = AutoTokenizer.from_pretrained(llama_model_name)
-#llama_model = AutoModelForCausalLM.from_pretrained(
-#    llama_model_name,
-#    torch_dype=torch.float16,
-#    device_map='auto'
-#)
+llama_tokenizer = AutoTokenizer.from_pretrained(llama_model_name, token=access_token)
+llama_model = AutoModelForCausalLM.from_pretrained(
+    llama_model_name,
+    token=access_token,
+    device_map='auto'
+)
+llama_model.to(device)
+logging.info(f'Loaded llama model and llama tokenizer, moved to {device}')
 prompt='''
 You are analyzing text from a news article that has been scraped from a website. You aim to detect logical fallacies in an article and assign a score from 1 to 10 representing the frequency of a specific logical fallacy.
 
@@ -61,16 +67,18 @@ Analysis:
 
 
 def encode_article(text):
+    vector_encodings = None
     bert_model.eval()
     inputs = bert_tokenizer(
         text,
         return_tensors='pt',
-        truncation=False,
-        padding=True
+        truncation=True,
+        padding='max_length',
+        max_length=512
     ).to(bert_model.device)
     with torch.no_grad():
         outputs = bert_model(**inputs)
-    vector_encodings = output.last_hidden_state[:,0,:]
+        vector_encodings = outputs.last_hidden_state[:,0,:]
     return vector_encodings
 
 
@@ -107,7 +115,7 @@ if __name__ == '__main__':
     article_ids = data.loc[1:3,'id']
     json_text = ''
     article_text = ''
-    for article_id in tqdm(article_ids, desc=f'assessing article {article_id}'):
+    for article_id in article_ids:
         article_id = article_id.lower()
         article_id_components = article_id.split('-')
         id_name = ''

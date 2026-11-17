@@ -107,3 +107,68 @@ def get_filing_embedding(file_path, embedding_dim, doc2vec_model):
     if embedding.shape != (embedding_dim,):
         embedding = np.zeros((embedding_dim,), dtype=np.float32)
     return embedding
+
+
+def true_positive(pred_tensor, label_tensor):
+    '''
+        return the number of correctly predicted positives assuming pred_tensor is the prediction tensor, and label_tensor is the label tensor
+        - assumes that the tensors have only 0 or 1 inside them, and that 1 represents true, 0 represents false
+    '''
+    assert(pred_tensor.shape == label_tensor.shape)
+    length = pred_tensor.shape[0]
+    ones_tensor = torch.ones(length)
+    label_tensor_ones = (torch.argmax(label_tensor, dim=1) == ones_tensor)
+    pred_tensor_ones = (torch.argmax(pred_tensor, dim=1) == ones_tensor)
+    true_positive_predictions = (label_tensor_ones & pred_tensor_ones)
+    true_positive_count = true_positive_predictions.type(torch.float).sum().item()
+    return true_positive_count
+
+
+def false_positive(pred_tensor, label_tensor):
+    '''
+        return the number of falsely predicted positives (negatives predicted as positive) assuming pred_tensor is the prediction tensor,
+        and label_tensor is the label tensor
+        - assumes that the tensors have only 0 or 1 inside them, and that 1 represents true, 0 represents false
+    '''
+    assert(pred_tensor.shape == label_tensor.shape)
+    length = pred_tensor.shape[0]
+    zeros_tensor = torch.zeros(length)
+    ones_tensor = torch.ones(length)
+    pred_tensor_predict_true = (torch.argmax(pred_tensor, dim=1) == ones_tensor)
+    label_tensor_false = (torch.argmax(label_tensor, dim=1) == zeros_tensor)
+    false_positive_predictions = (pred_tensor_predict_true & label_tensor_false)
+    num_false_positives = false_positive_predictions.type(torch.float).sum().item()
+    return num_false_positives
+
+
+def true_negative(pred_tensor, label_tensor):
+    '''
+        return the number of correctly predicted negatives assuming pred_tensor is the prediction tensor, and label_tensor is the label tensor
+        - assumes that the tensors have only 0 or 1 inside them, and that 1 represents true, 0 represents false
+    '''
+    assert(pred_tensor.shape == label_tensor.shape)
+    length = pred_tensor.shape[0]
+    zeros_tensor = torch.zeros(length)
+    label_tensor_zeros = (torch.argmax(label_tensor, dim=1) == zeros_tensor)
+    pred_tensor_zeros = (torch.argmax(pred_tensor, dim=1) == zeros_tensor)
+    true_negative_predictions = (label_tensor_zeros & pred_tensor_zeros)
+    num_true_negatives = true_negative_predictions.type(torch.float).sum().item()
+    return num_true_negatives
+
+
+def false_negative(pred_tensor, label_tensor):
+    '''
+        return the number of falsely predicted negatives (positive predicted as negative) assuming pred_tensor is the prediction tensor,
+        and label_tensor is the label tensor
+        - assumes that the tensors have only 0 or 1 inside them, and that 1 represents true, 0 represents false
+    '''
+    assert(pred_tensor.shape == label_tensor.shape)
+    length = pred_tensor.shape[0]
+    zeros_tensor = torch.zeros(length)
+    ones_tensor = torch.ones(length)
+    pred_tensor_predict_false = (torch.argmax(pred_tensor, dim=1) == zeros_tensor)
+    label_tensor_true = (torch.argmax(label_tensor, dim=1) == ones_tensor)
+    false_negative_predictions = (label_tensor_true & pred_tensor_predict_false)
+    num_false_negative = false_negative_predictions.type(torch.float).sum().item()
+    return num_false_negative
+
